@@ -389,7 +389,7 @@ zh: &DEFAULT_ZH_HANS
   tags_label                 : "标签:"
   categories_label           : "分类:"
   date_label                 : "更新时间:"
-  comments_label             : "留下评论"
+  comments_label             : "评论"
   comments_title             : "评论"
   more_label                 : "了解更多"
   related_label              : "猜您还喜欢"
