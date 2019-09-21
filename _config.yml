@@ -19,7 +19,7 @@ locale                   : "zh-CN"
 title                    : "浩仔博客"
 title_separator          : "-"
 subtitle                 : 记录生活 # site tagline that appears below site title in masthead
-name                     : "sunete"
+name                     : "浩仔博客-记录生活"
 description              : "An amazing website."
 url                      : https://sunete.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

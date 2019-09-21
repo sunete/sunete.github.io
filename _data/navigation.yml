@@ -1,11 +1,10 @@
 # main links
 main:
-  - title: "关于"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "主页"
+    url: https://sunete.github.io/
+  # - title: "归档"
+    # url: /archive/
   # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    # url: /collection-archive/
+  # - title: "网站地图"
+    # url: /sitemap/
