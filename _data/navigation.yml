@@ -1,10 +1,14 @@
 # main links
 main:
-  - title: "主页"
+  - title: "首页"
     url: https://sunete.github.io/
-  # - title: "归档"
-    # url: /archive/
-  # - title: "Sample Collections"
-    # url: /collection-archive/
+  - title: "归档"
+    url: /year-archive/
+  - title: "分类"
+    url: /categories/    
+  - title: "标签"
+    url: /tags/  
+  - title: "关于"
+    url: https://sunete.github.io/about/
   # - title: "网站地图"
     # url: /sitemap/

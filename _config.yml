@@ -245,7 +245,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jemoji
 
 # Archives
  # Type
