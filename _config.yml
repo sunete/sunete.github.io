@@ -30,7 +30,23 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "Valine" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom", "Valine"
+  
+# Valine评论系统开关
+# Valine.
+# You can get your appid and appkey from https://leancloud.app
+# more info please open https://valine.js.org
+  valine:
+    enable: true
+    appid:  7MKirPjUCzjy0iTtJFE7Yq8S-MdYXbMMI # your leancloud app id
+    appkey: SMX1466GI5I2q4diMWU9R97t # your leancloud app key
+    notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+    verify: true # Verification code
+    placeholder: Just go go # comment box placeholder
+    avatar:   # gravatar style
+    guest_info: 昵称,邮件,网址 # custom comment header
+    pageSize: 10 # pagination size
+    # path: window.location.pathname
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:

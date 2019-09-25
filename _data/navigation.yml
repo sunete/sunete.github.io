@@ -12,14 +12,3 @@ main:
     url: https://sunete.github.io/about/
   # - title: "网站地图"
     # url: /sitemap/
-archive:
-  - title: "归档检索"
-    children:
-      - title: "按标签"
-        url: /tags/
-
-      - title: "按类别"
-        url: /categories/
-
-      - title: "按年份"
-        url: /year-archive/    
