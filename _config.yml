@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "Valine" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom", "Valine"
+  provider               : "valine" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom", "valine"
   
 # Valine评论系统开关
 # Valine.

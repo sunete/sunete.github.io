@@ -150,6 +150,12 @@
           <!-- End new comment form -->
         {% endif %}
       </section>
+	{% when "valine" %}
+			<!-- Valine 评论框 start -->
+			{% if site.valine.enable %}
+					{% include valine_comments.html %}
+		{% endif %}
+			<!-- Valine 评论框 end -->
     {% when "utterances" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="utterances-comments"></section>
@@ -158,8 +164,3 @@
   {% endcase %}
 </div>
 
-<!-- Valine 评论框 start -->
-{% if site.valine.enable %}
-		  {% include valine_comments.html %}
-           {% endif %}
-<!-- Valine 评论框 end -->
