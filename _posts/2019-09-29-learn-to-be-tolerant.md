@@ -1,7 +1,7 @@
 ---
 title: "学会包容"
 categories:
-  - 日记
+  - diary
 tags:
   - 生活
   - 教学

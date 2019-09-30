@@ -1,7 +1,7 @@
 ---
 title: "生命在于折腾"
 categories:
-  - 日记
+  - diary
 tags:
   - 日记
   - 技术

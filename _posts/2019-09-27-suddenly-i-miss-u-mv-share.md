@@ -1,7 +1,7 @@
 ---
 title: "突然好想你 MV 分享"
 categories:
-  - 日记
+  - diary
 tags:
   - 日记
   - 音乐

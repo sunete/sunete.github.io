@@ -1,11 +1,11 @@
 ---
 title: "Jekyll博客添加回到顶部按钮"
+categories:
+  - blog
 tags:
   - 博客
   - 技术
   - Jekyll
-categories:
-  - 博客
 toc: true
 ---
 

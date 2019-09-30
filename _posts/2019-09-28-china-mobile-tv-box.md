@@ -1,7 +1,7 @@
 ---
 title: "移动魔百盒刷机教程"
 categories:
-  - 教程
+  - tutorial
 tags:
   - 魔百盒
   - 刷机
