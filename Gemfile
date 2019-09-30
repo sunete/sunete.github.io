@@ -4,3 +4,4 @@ gem "minimal-mistakes-jekyll"
 gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
 gem 'jekyll-archives'
 gem 'jemoji'
+gem "jekyll-algolia"
