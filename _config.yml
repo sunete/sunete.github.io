@@ -82,12 +82,12 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search_full_content      : # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : PZRMDQNXXV # YOUR_APPLICATION_ID
-  index_name             : blog # YOUR_INDEX_NAME
-  search_only_api_key    : 113e70eaea18742b5a1fd7579d5c80b7 # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : HJQ98D09NT # YOUR_APPLICATION_ID
+  index_name             : dev_sunete_blog # YOUR_INDEX_NAME
+  search_only_api_key    : aa515407c6fd216f24cd90fd918df674 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
