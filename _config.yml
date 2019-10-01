@@ -83,7 +83,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
   application_id         : HJQ98D09NT # YOUR_APPLICATION_ID
   index_name             : dev_sunete_blog # YOUR_INDEX_NAME
