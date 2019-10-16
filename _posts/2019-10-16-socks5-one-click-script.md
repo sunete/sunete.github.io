@@ -1,5 +1,5 @@
 ---
-title: "Centos7 Scoks5一键搭建脚本"
+title: "Scoks5一键搭建脚本"
 categories:
   - tutorial
 tags:
