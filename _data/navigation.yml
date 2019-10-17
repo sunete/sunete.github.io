@@ -1,14 +1,16 @@
 # main links
 main:
-  - title: "首页"
+  - title: <i class="fas fa-home"></i> 首页
     url: https://sunete.github.io/
-  - title: "归档"
+  - title: <i class="fas fa-folder-open"></i> 归档
     url: /year-archive/
-  - title: "分类"
+  - title: <i class="fas fa-th"></i> 分类
     url: /categories/    
-  - title: "标签"
+  - title: <i class="fas fa-tags"></i> 标签
     url: /tags/  
-  - title: "关于"
+  - title: <i class="fas fa-info-circle"></i> 关于
     url: https://sunete.github.io/about/
+  # - title: "影单"
+    # url: https://sunete.github.io/movie-list/
   # - title: "网站地图"
     # url: /sitemap/
