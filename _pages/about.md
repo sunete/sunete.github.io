@@ -4,8 +4,6 @@ permalink: /about/
 icon: heart
 ---
 
-# <center>关于</center>
-
 **关于我**
 
 姓名：浩仔    
@@ -50,3 +48,6 @@ icon: heart
 
 
 2019/10/17 主页顶部菜单添加图标
+
+
+2019/11/17 更改博客链接颜色
