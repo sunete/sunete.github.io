@@ -206,6 +206,7 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - /_pages/year-archive.html
   - /_pages/sitemap.md
+  - /_pages/category-archive.html
 keep_files:
   - .git
   - .svn
