@@ -3,9 +3,10 @@ title: "新电视 小米4C到货"
 categories:
   - diary
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - 小米电视
+  - 电视
+  - 网购
+  - 开箱
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
