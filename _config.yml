@@ -207,6 +207,7 @@ exclude:
   - /_pages/year-archive.html
   - /_pages/sitemap.md
   - /_pages/category-archive.md
+  - /_pages/category-archive.html
 keep_files:
   - .git
   - .svn
