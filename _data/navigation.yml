@@ -10,7 +10,7 @@ main:
     url: /tags/  
   - title: <i class="fas fa-info-circle"></i> 关于
     url: https://sunete.github.io/about/
-  # - title: "影单"
-    # url: https://sunete.github.io/movie-list/
+  - title: "图床"
+    url: https://sunete.github.io/pic/
   # - title: "网站地图"
     # url: /sitemap/
