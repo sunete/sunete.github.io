@@ -9,8 +9,5 @@
   <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "google-drive" %}
   <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen></iframe>
-{% elsif video_provider == "bilibili" %}
-  <iframe src="http://player.bilibili.com/player.html?aid={{ video_id }}&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="640" height="480" allowfullscreen="true"> </iframe>
 {% endif %}
 </div>
-

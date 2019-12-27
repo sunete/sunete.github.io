@@ -19,6 +19,22 @@
   }
 }
 
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 100vh;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.initial-content,
+.search-content {
+  flex: 1 0 auto;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;
@@ -71,6 +87,23 @@
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
+
+	h1, h2, h3, h4, h5, h6 {
+		.header-link {
+			position: relative;
+			left: 0.5em;
+			opacity: 0;
+			font-size: 0.8em;
+			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+			-moz-transition: opacity 0.2s ease-in-out 0.1s;
+			-o-transition: opacity 0.2s ease-in-out 0.1s;
+			transition: opacity 0.2s ease-in-out 0.1s;
+		}
+
+		&:hover .header-link {
+			opacity: 1;
+		}
+	}
 
   p,
   li,
@@ -517,30 +550,4 @@
       padding-right: 0;
     }
   }
-}
-
-#backtop a { /* back to top button */
-    text-align: center;
-    line-height: 50px;
-    font-size: 16px;
-    width:50px;
-    height: 50px;
-    position: fixed;
-    bottom: 10px; /* 小按钮到浏览器底边的距离 */
-    right: 20px; /* 小按钮到浏览器右边框的距离 */
-    color: rgb(64,120,192); /* 小按钮中文字的颜色 */
-    z-index: 1000;
-    background: rgba(245,255,250,0.5); /* 小按钮底色 */
-    padding: auto; /* 小按钮中文字到按钮边缘的距离 */
-    border-radius: 50px; /* 小按钮圆角的弯曲程度（半径）*/
-    -moz-border-radius: 50px;
-    -webkit-border-radius: 50px;
-    font-weight: bold; /* 小按钮中文字的粗细 */
-    text-decoration: none !important;
-    box-shadow:0 1px 2px rgba(0,0,0,.15), 0 1px 0 #ffffff inset;
-}
-
-#backtop a:hover { /* 小按钮上有鼠标悬停时 */
-    background: rgba(64,120,192,0.8); /* 小按钮的底色 */
-    color: #fff; /* 文字颜色 */
 }
