@@ -1,16 +1,29 @@
 # main links
 main:
-  - title: <i class="fas fa-home"></i> 首页
+  - title: "首页"
     url: https://sunete.github.io/
-  - title: <i class="fas fa-folder-open"></i> 归档
+  - title: "归档"
     url: /year-archive/
-  - title: <i class="fas fa-th"></i> 分类
+  - title: "分类"
     url: /categories/    
-  - title: <i class="fas fa-tags"></i> 标签
+  - title: "标签"
     url: /tags/  
-  - title: <i class="fas fa-info-circle"></i> 关于
+  - title: "关于"
     url: https://sunete.github.io/about/
-  - title: <i class="fa fa-upload" aria-hidden="true"></i> 图床
+  - title: "图床"
     url: https://sunete.github.io/pic/
   # - title: "网站地图"
     # url: /sitemap/
+# main:
+  # - title: <i class="fas fa-home"></i> 首页
+    # url: https://sunete.github.io/
+  # - title: <i class="fas fa-folder-open"></i> 归档
+    # url: /year-archive/
+  # - title: <i class="fas fa-th"></i> 分类
+    # url: /categories/    
+  # - title: <i class="fas fa-tags"></i> 标签
+    # url: /tags/  
+  # - title: <i class="fas fa-info-circle"></i> 关于
+    # url: https://sunete.github.io/about/
+  # - title: <i class="fa fa-upload" aria-hidden="true"></i> 图床
+    # url: https://sunete.github.io/pic/
