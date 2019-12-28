@@ -3,6 +3,7 @@
 ---
 
 @charset "utf-8";
-@import "_sass/minimal-mistakes/scss/fontawesome.scss";
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/scss/fontawesome.scss";
