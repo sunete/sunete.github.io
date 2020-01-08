@@ -2,12 +2,12 @@
 main:
   - title: "首页"
     url: https://sunete.github.io/
+  - title: "爱情树"
+    url: /lovetree/  
   - title: "归档"
     url: /year-archive/
   - title: "分类"
     url: /categories/    
-  - title: "标签"
-    url: /tags/  
   - title: "关于"
     url: https://sunete.github.io/about/
   - title: "图床"
