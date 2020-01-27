@@ -16,10 +16,10 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 [洛杉矶时报][3]、CNN等多家国外媒体报道了此次事故。<br>
 
->Kobe Bryant, 41, the legendary basketball star who spent 20 years with the Lakers, was killed when the helicopter he was traveling in crashed and burst into flames Sunday morning amid foggy conditions in the hills above Calabasas, sources told the Los Angeles Times.
+>**原文：**Kobe Bryant, 41, the legendary basketball star who spent 20 years with the Lakers, was killed when the helicopter he was traveling in crashed and burst into flames Sunday morning amid foggy conditions in the hills above Calabasas, sources told the Los Angeles Times.
 His daughter Gianna, 13, was also on board, NBA authorities confirmed.
 
->**翻译:**《洛杉矶时报》报道，现年41岁的传奇篮球明星科比·布莱恩特(Kobe Bryant)在洛杉矶湖人队效力了20年。周日上午，他乘坐的直升机在卡拉巴萨斯(Calabasas)上空的山上坠毁并起火。
+>**翻译：**《洛杉矶时报》报道，现年41岁的传奇篮球明星科比·布莱恩特(Kobe Bryant)在洛杉矶湖人队效力了20年。周日上午，他乘坐的直升机在卡拉巴萨斯(Calabasas)上空的山上坠毁并起火。
 NBA官方证实，他13岁的女儿吉安娜也在飞机上。<br>
 
 虽然我不太会打球，但是NBA这样一名巨星我还是很熟悉的。我至今还记得上初中的时候，用班级里的有线电视看NBA。那年是2009年，我虽然不懂球，但是还能记得[湖人打败凯尔特人][4] 获得总冠军时激动的心情。<br>

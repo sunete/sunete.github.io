@@ -11,6 +11,7 @@ toc_label: "新型冠状病毒肺炎"
 toc_icon: "plus-square"  # Font Awesome对应图标名称 (无fa前缀)
 ---
 ![武汉肺炎][1]
+
 ```
 武汉肺炎简介：
 
