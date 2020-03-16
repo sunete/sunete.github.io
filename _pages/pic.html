@@ -5,6 +5,7 @@ title: "图床"
 author_profile: true
 ---
 
+
 <!DOCTYPE html>
 <html lang="zh-cn"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -39,10 +40,10 @@ body {
 			</p>
      		
 			<div class="mselector">
-				<input type="file" accept="image/*" multiple="">
+				<input type="file" accept="image/*" multiple>
 				<button type="button" class="btn btn-lg btn-info">选择本地图片</button>
 				<div class="bodyer">
-					<label><input name="keke" checked="checked" type="radio" value="1688">阿里图床</label>
+					<label><input name="keke" checked type="radio" value="1688">阿里图床</label>
 					<label><input name="keke" type="radio" value="tieba">百度图床</label>
 					<label><input name="keke" type="radio" value="360">360图床</label>
 					<label><input name="keke" type="radio" value="taobao">淘宝图床</label>
@@ -64,7 +65,7 @@ body {
 			</div>
 		</div>
 		<div class="footer">
-			<p>Copyright&nbsp;©&nbsp;sunete.github.io &nbsp;本站不做任何上传的图片保存，且上传后无法删除。请自行斟酌使用</p>
+			<p>Copyright © sunete <a href="https://sunete.github.io" target="_blank"> </a> 本站不做任何上传的图片保存，且上传后无法删除。请自行斟酌使用</p>
 		</div>
 	</div>
 	<script type="text/javascript">
@@ -97,7 +98,7 @@ body {
 	 	 * 普通图片上传
 		 */
 		var imagesUpload = function(files) {
-			a=$('input:radio:checked').val();
+			a=$('input<img class="emoji" title=":radio:" alt=":radio:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fb.png" height="20" width="20">checked').val();
 			var flag = 0;
 			$('textarea').empty();
 			$(files).each(function(key, value) {
@@ -130,7 +131,7 @@ body {
 							$('.mselector > button')[0].innerHTML = '成功 ' + flag + '/' + files.length;
 							
 							// 生成预览图
-							var apc = "<img src='" + imgurl + "' referrerpolicy=\"no-referrer\" /><p>&nbsp;</p>";							
+							var apc = "<img src="%22%20+%20imgurl%20+%20%22" referrerpolicy='\"no-referrer\"'><p> </p>";							
 							$('.preview').css('display', 'block');
 							$(".preview>hr").before(apc)
 							
