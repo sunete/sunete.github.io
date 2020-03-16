@@ -27,5 +27,5 @@
     # url: /lovetree/  
   - title: <i class="fas fa-info-circle"></i> 关于
     url: https://sunete.github.io/about/
-  - title: <i class="fa fa-upload" aria-hidden="true"></i> 图床
-    url: /pic/
+  # - title: <i class="fa fa-upload" aria-hidden="true"></i> 图床
+    # url: /pic/
