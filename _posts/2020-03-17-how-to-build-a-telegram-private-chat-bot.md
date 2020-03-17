@@ -52,6 +52,7 @@ Livegram Bot可以用于创建电报转发机器人，它可以将发送给机�
 ![edit][12]
  
 
+参考文章：[Telegram：3分钟免费搭建可用于私聊的机器人](https://nobugin.com/telegram-3-minutes-free-to-build-a-robot-for-private-chat.html)
 
   [1]: https://t.me/BotFather
   [2]: https://t.me/BotFather
