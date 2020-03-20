@@ -22,13 +22,13 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 比如我想用RSS订阅YouTube频道[Kurzgesagt – In a Nutshell][1] 
 
- 1. 搜索并点开频道，在地址栏复制频道链接
+搜索并点开频道，在地址栏复制频道链接
 ```html
 https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
 ```
- 2. 删除频道链接最后一个反斜杠以及前面的所有内容，只保留末尾的频道ID **UCsXVk37bltHxD1rDPwtNM8Q**
+删除频道链接最后一个反斜杠以及前面的所有内容，只保留末尾的频道ID **UCsXVk37bltHxD1rDPwtNM8Q**
 
- 3. 将频道ID接在下面链接的末尾，即为频道RSS订阅链接
+将频道ID接在下面链接的末尾，即为频道RSS订阅链接
 ```html
 https://www.youtube.com/feeds/videos.xml?channel_id=
 ```
@@ -40,34 +40,34 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
 ### 二、利用feeder.co查找RSS订阅源
 [feeder.co][3]是一款RSS订阅软件，其包含移动端app和chrome插件，这里我们利用feeder.co的chrome插件——[RSS Feed Reader][4]来寻找RSS订阅链接。此方法适用于大多数包含却没有给出RSS订阅链接的网站，并不能为网站生成RSS源。
 
- 1. 从chrome扩展商店中搜索并安装[RSS Feed Reader][5]
+从chrome扩展商店中搜索并安装[RSS Feed Reader][5]
  
- 扩展程序地址：<https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp>
+扩展程序地址：<https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp>
 
 ![8BfA8x.png](https://s1.ax1x.com/2020/03/18/8BfA8x.png)
 
- 2. 点击feeder.co插件图标，并点击所显示的弹窗右上角的加号，进入添加或查找feed页面
+点击feeder.co插件图标，并点击所显示的弹窗右上角的加号，进入添加或查找feed页面
  
 ![8BfvFA.png](https://s1.ax1x.com/2020/03/18/8BfvFA.png)
 
- 3. 在添加feed页面输入所需订阅的网站，点击搜索，搜索到后点击添加即可
+在添加feed页面输入所需订阅的网站，点击搜索，搜索到后点击添加即可
  
 ![search][6]
 
 ### 三、Feedly查找订阅源
 [Feedly][7]是一个多平台rss阅读软件，功能丰富，界面设计精致。现在我的手机和PC端都在使用[Feedly][8]，多平台同步，非常方便。这里简单介绍利用Feedly插件[Feedly Notifier][9]查找RSS源的方法。
 
- 1. 在chrome应用商店搜索并安装[Feedly Notifier][10]
+在chrome应用商店搜索并安装[Feedly Notifier][10]
 
 扩展程序地址：<https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb>
 
 ![Feedly Notifier][11]
 
- 2. 安装完成后，点击菜单栏图标，并点击弹出栏左上角Feedly网站图标进入网站
+安装完成后，点击菜单栏图标，并点击弹出栏左上角Feedly网站图标进入网站
  
 ![进入feedly][12]
 
- 3. 点击左侧栏加号搜索并添加网站RSS，可直接输入网址查找已存在RSS链接并订阅
+点击左侧栏加号搜索并添加网站RSS，可直接输入网址查找已存在RSS链接并订阅
 
 ![feedly search][13]
 
