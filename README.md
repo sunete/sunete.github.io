@@ -2,9 +2,9 @@
 <p>
 </p>
 
-> This is my static jekyll blog hosted on github pages.I often update some pages about my own life and other things.
+> This is my static jekyll blog hosted on github pages.I often update some posts about my own life and other things.
 
-### 🏠 Website <https://sunete.github.io/>
+### 🏠 Homepage <https://sunete.github.io/>
 
 ### ✨ Code <https://github.com/sunete/sunete.github.io>
 
@@ -14,7 +14,7 @@
 
 👤 **Sunete**
 
-* Website: https://github.com/sunete
+* Website: https://sunete.github.io/
 * Github: [@sunete](https://github.com/sunete)
 
 
