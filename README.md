@@ -8,6 +8,8 @@
 
 ### ✨ [Code](https://github.com/sunete/sunete.github.io)
 
+### ✨ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+
 ## Author
 
 👤 **Sunete**
