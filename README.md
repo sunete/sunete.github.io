@@ -4,9 +4,9 @@
 
 > This is my static jekyll blog hosted on github pages.I often update some pages about my own life and other things.
 
-### 🏠 [Homepage](https://sunete.github.io/)
+### 🏠 Homepage <https://sunete.github.io/>
 
-### ✨ [Code](https://github.com/sunete/sunete.github.io)
+### ✨ Code <https://github.com/sunete/sunete.github.io>
 
 ### ✨ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
