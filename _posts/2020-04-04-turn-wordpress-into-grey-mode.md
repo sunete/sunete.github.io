@@ -2,7 +2,6 @@
 title: "清明节将WordPress转换为灰色模式"
 categories:
   - tutorial
-  - blog
 tags:
   - WordPress
   - 清明节

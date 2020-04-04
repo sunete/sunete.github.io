@@ -2,7 +2,6 @@
 title: "WordPress仅使主页变为灰色模式"
 categories:
   - tutorial
-  - blog
 tags:
   - WordPress
   - 代码
