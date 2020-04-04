@@ -5,9 +5,10 @@ categories:
   - tutorial
   - blog
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - WordPress
+  - 清明节
+  - 黑白模式
+  - 代码
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
