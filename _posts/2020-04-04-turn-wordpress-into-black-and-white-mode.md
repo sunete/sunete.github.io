@@ -38,9 +38,21 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 修改后的代码
 ![enter image description here](https://s1.ax1x.com/2020/04/04/Gdgphd.png)
 
+后面又发现了更加简单的更改方法，可直接在WordPress主题设置中修改。
+ 1. 进入WordPress后台-外观-自定义-额外CSS：
+ 2. 然后粘贴下方代码，点击发布即可
+```
+html {
+filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+-webkit-filter: grayscale(100%);
+}
+```
+其他主题直接将代码添加到css文件中即可。
+
 虽说已经成功将网站更改为黑白色调，但是能否用代码实现，在每年清明节网站自动转换为黑白模式呢？这应该需要定时代码来实现。我不会代码，Google搜索也没有相关文章，所以只能这样手动操作了。
 
 参考文章：
 
 - [将WordPress变成黑白双色风格以示哀悼的方法](https://www.arefly.com/wordpress-black-white/)
 - [一行 CSS 代码实现整个网站网页变黑白灰的效果](https://oldtang.com/2793.html)
+- [WordPress 全站变灰CSS代码分享及使用方法](https://wangdalao.com/3179.html)
