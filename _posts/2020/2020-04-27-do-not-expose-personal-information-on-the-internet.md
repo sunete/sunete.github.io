@@ -35,7 +35,7 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 ![Jfs2md.png](https://s1.ax1x.com/2020/04/27/Jfs2md.png)
 
-### [网站3、OpenGPS](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
+### [网站3：OpenGPS](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
 进入网站，直接就可定位自己的IP地址，大致查询了之前的那一个IP，定位精准度的和前面两者相近。
 
 ![Jf68r4.png](https://s1.ax1x.com/2020/04/27/Jf68r4.png)
