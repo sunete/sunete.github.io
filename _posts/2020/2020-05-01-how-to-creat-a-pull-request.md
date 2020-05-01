@@ -1,7 +1,7 @@
 ---
 title: "怎样在GitHub上Pull Request"
 categories:
-  - diary
+  - tutorial
 tags:
   - GitHub
   - Pull Request
