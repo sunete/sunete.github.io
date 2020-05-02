@@ -10,9 +10,6 @@ toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
 ---
-
-![head picture](https://i.loli.net/2020/01/10/bhJVTKaAxISi8jD.jpg)
-
 最近辅导班里发生了很多我没有参与的事情，大多数是人际关系上的问题。<br>
 
 ### 赵与付之间矛盾

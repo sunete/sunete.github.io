@@ -10,7 +10,6 @@ toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
 ---
-![sun.jpg](https://i.loli.net/2020/01/20/OCSMceX8iFUgBtN.jpg)
 每天每天都在朋友圈看到好友发的动态，虽说于我不痛不痒，但也是各有不同。有的人大多数都在发旅游的视频，有的人总是发问候的动态，有的人po上自己的照片，带上一句说说。　　
 
 
