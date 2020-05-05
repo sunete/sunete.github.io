@@ -12,12 +12,11 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 ---
 收集一些免费主机，用于新手建站练习使用。
 
-## 一、XREA免费空间
+## XREA
 http://www.xrea.com/
 
-## 二、PIPNI.CZ
+## PIPNI.CZ
 http://www.pipni.cz/
 
-------------------
-## 参考文章
-[《免费主机推荐》](https://www.xianba.net/free-web-hosting-recommend)
+## Freehostia
+https://www.freehostia.com/
