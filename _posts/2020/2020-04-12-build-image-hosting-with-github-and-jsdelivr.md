@@ -7,9 +7,11 @@ tags:
   - GitHub
   - JsDelivr
 toc: true
+toc_sticky: true
 toc_label: "Github图床搭建教程"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
+
 前几天在网上看到有人发了一篇利用 GitHub+jsDelivr 搭建图床的教程，当时大概地瞄了一眼，虽然教程不复杂，但是我以为需要注册 jsDelivr 的账号，所以就没去按教程做图床。恰逢今天是周末，没什么事忙，就着手开始搭建图床。
 
 ## 写在前面
@@ -57,6 +59,6 @@ PicGo 的使用非常简单，可以拖拽上传、剪贴板上传或者选择�
 
 ## 参考文章
 
-[《GitHub+jsDelivr+PicGo 搭建免费图床》](https://segmentfault.com/a/1190000020240864)
+- [《GitHub+jsDelivr+PicGo 搭建免费图床》](https://segmentfault.com/a/1190000020240864)
 
 [1]: https://github.com/

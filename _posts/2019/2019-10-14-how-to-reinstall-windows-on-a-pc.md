@@ -7,9 +7,10 @@ tags:
   - 教程
   - 技术
   - 电脑
-toc: false
-toc_label: "标题"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc: true
+toc_sticky: true
+toc_label: "如何重装系统"
+toc_icon: " "  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 电脑从买来，到使用一段时间，总会经历重装系统。有的人可能是送去电脑维修店重装系统，有些人可能是请朋友帮忙，但不论如何，自己会重装是最方便的，而且这也是一项小技能。所以在此写一篇关于重装系统的教程。
 

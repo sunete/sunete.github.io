@@ -6,9 +6,10 @@ tags:
   - GitHub
   - Pull Request
   - 博客主题
-toc: false
-toc_label: "标题"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc: true
+toc_sticky: true
+toc_label: "怎样Pull Request"
+toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 在之前发布的一篇文章 [《bilibili适应页面宽度》][1] 中，我就提到了，[minimal-mistakes][2] 这个主题插入 YouTube、Vimeo、Google Drive 等国外网站视频时可以自适应页面宽度，但是国内的哔哩哔哩视频却不可以，所以我就自己尝试解决这个问题。最终，通过修改 `_includes/video` 代码，这个问题得到了解决。于是我向 [minimal-mistakes][2] 的开发者提交了 issue，请求在主题中添加哔哩哔哩视频相关代码。两天后，开发者回复我说，希望我为主题 Pull Request。
 

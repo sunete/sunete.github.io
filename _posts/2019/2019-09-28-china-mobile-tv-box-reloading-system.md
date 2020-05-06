@@ -7,9 +7,10 @@ tags:
   - 刷机
   - 电视机顶盒
   - 固件
-toc: false
-toc_label: "标题"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc: true
+toc_sticky: true
+toc_label: "移动魔百盒刷机教程"
+toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 ## 电视盒子
 移动魔百盒是中国移动推出的网络机顶盒。与市面上的其他电视盒类似，移动魔百盒支持视频，音乐等内容资源播放，还提供部分互动游戏作为补充。移动魔百盒一般随移动宽带业务一同开通，与宽带套餐绑定。

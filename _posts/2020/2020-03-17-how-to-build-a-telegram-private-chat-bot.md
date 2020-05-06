@@ -1,14 +1,15 @@
 ---
-title: "如何创建一个telegram私聊机器人"
+title: "如何创建一个 telegram 私聊机器人"
 categories:
   - tutorial
 tags:
   - telegram
   - 隐私
   - bot
-toc: false
-toc_label: "标题"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc: true
+toc_sticky: true
+toc_label: "如何创建消息转发机器人"
+toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 由于每天都会使用 telegram，并且在 telegram 频道上管理更新一些活动，所以避免不了和其他人私聊。但是为了保护隐私，有的时候是不想直接在网络上暴露自己的个人账号的，所以就需要一个 telegram 私聊机器人作为中间桥梁，间接把他人的消息传达给我。之前也已经按照网上的教程搭建过一个私聊机器人，但是已经完全忘记了搭建方法，所以在这里再次记录一下搭建流程，防止无法在网上找到相关教程。
 

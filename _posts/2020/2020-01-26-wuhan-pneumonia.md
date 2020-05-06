@@ -7,6 +7,7 @@ tags:
   - 新型冠状病毒
   - 疫情动态报道
 toc: true
+toc_sticky: true
 toc_label: "新型冠状病毒肺炎"
 toc_icon: "plus-square"  # Font Awesome对应图标名称 (无fa前缀)
 ---

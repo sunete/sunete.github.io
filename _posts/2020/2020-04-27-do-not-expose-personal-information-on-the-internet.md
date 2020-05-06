@@ -6,9 +6,10 @@ tags:
   - 隐私
   - 个人信息
   - 网络安全
-toc: false
-toc_label: "标题"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc: true
+toc_sticky: true
+toc_label: "网络安全"
+toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 最近闲下来的时候大部分时间都是去 [今日热榜](https://tophub.today/) 看各大论坛和网站的热帖。
 

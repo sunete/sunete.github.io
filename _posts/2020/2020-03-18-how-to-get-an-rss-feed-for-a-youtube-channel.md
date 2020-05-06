@@ -6,9 +6,10 @@ tags:
   - 教程
   - RSS
   - YouTube
-toc: false
-toc_label: "标题"
-toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
+toc: true
+toc_sticky: true
+toc_label: "如何获取 RSS"
+toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 有几个 YouTube 频道是我个人非常喜欢的，每当频道更新视频，我都希望能收到通知。但是我不可能每次都去用手机打开 YouTube，或者点击网页查看是否有视频更新，所以这时候就需要用RSS来订阅 YouTube 频道的更新。
 
@@ -17,7 +18,7 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 下面介绍几种为 YouTube 频道创建 RSS 订阅链接的方法。
 
 ## 查找 RSS 源方法
-### 一、使用频道 ID 拼接 YouTube 频道 RSS 链接
+### 一、使用 YouTube 频道 ID 拼接获取 RSS 链接
 这个方法适用于任何 YouTube 频道，也是我极力推荐的一种方法，非常简单。
 
 比如我想用 RSS 订阅 YouTube 频道 [Kurzgesagt – In a Nutshell][1] 
@@ -74,11 +75,11 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
 ## 总结
 当然添加或者查找 RSS 源的方法不只有以上几种方法，或者软件，这里并没有全部列举出来。比如非常优秀的开源项目 [RSSHUB][14]，或者可以为没有Feed 的网页生成 RSS 订阅源的 [Feed43][15]，都是非常棒的 RSS 插件或网页。但是不论是用什么方法找到 RSS 源，只要能达到便于获取所需信息、节约时间，这些要求，就是最棒的 RSS 辅助工具。
 
-参考文章：
+## 参考文章
 
-[How to Get an RSS Feed for a YouTube Channel][16]
+- [How to Get an RSS Feed for a YouTube Channel][16]
 
-[用 RSS 訂閱 YouTube：YouTube 頻道網址轉 RSS 連結][17]
+- [用 RSS 訂閱 YouTube：YouTube 頻道網址轉 RSS 連結][17]
 
 
   [1]: https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q

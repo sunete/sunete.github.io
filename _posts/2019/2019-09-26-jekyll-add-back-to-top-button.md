@@ -7,6 +7,7 @@ tags:
   - 技术
   - Jekyll
 toc: true
+toc_sticky: true
 ---
 
 ## 博客搭建进度
