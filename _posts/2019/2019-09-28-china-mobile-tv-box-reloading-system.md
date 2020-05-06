@@ -21,32 +21,32 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 ## 个人见解 
 个人认为移动魔百盒纯属一个大坑，业务就是霸王条款，办理移动宽带，盒子不买不行。而且魔百盒相比其他的盒子也有很多的缺点。
-- 盒子所绑定的手机有最低消费
-- 点播盒子内部视频可能由于误点导致扣费
-- 魔百盒的系统是移动定制系统，只能看盒子内包含的影视资源，不能随意点播
-- 魔百盒不能安装第三方软件
+1. 盒子所绑定的手机有最低消费
+2. 点播盒子内部视频可能由于误点导致扣费
+3. 魔百盒的系统是移动定制系统，只能看盒子内包含的影视资源，不能随意点播
+4. 魔百盒不能安装第三方软件
 
 ## 刷机教程
 
 ### 1.准备物品
-移动魔百盒、FAT32格式U盘、刷机固件、网线
+移动魔百盒、FAT32 格式 U 盘、刷机固件、网线
 
 ### 2.恢复出厂设置
 设置—恢复出厂设置—清除全部内容，密码：10086
 
 ### 3.下载拷贝固件
-下载好对应型号的固件，将 `factory_update_param.aml`、`recovery.img`、`update.zip`三个文件复制到FAT32格式的U盘中
+下载好对应型号的固件，将 `factory_update_param.aml`、`recovery.img`、`update.zip` 三个文件复制到 FAT32 格式的 U 盘中
 
 ### 4.开始刷机
-1.盒子用网线到连接路由器LAN口，并连接电视，接通电源
+1. 盒子用网线到连接路由器 LAN 口，并连接电视，接通电源
 
-2.按下盒子后侧电源按钮断电
+2. 按下盒子后侧电源按钮断电
 
-3.将U盘插到靠近网线一侧的USB接口
+3. 将 U 盘插到靠近网线一侧的 USB 接口
 
-4.按下盒子后侧电源按钮通电，同时不停地按盒子遥控器菜单键，直至出现刷机界面
+4. 按下盒子后侧电源按钮通电，同时不停地按盒子遥控器菜单键，直至出现刷机界面
 
-5.出现刷机界面后盒子自动开始刷入系统，喝杯茶:tea:，稍加等待刷机完成
+5. 出现刷机界面后盒子自动开始刷入系统，喝杯茶:tea:，稍加等待刷机完成
 
 ## 盒子软件推荐
 刷机完成后魔百盒就可以安装第三方应用了，这里面推荐几个常用的不错的盒子软件
@@ -56,12 +56,12 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 - [HDP直播](http://down.znds.com/apk/tv/2014/0125/138.html)
 
 ### 点播软件
-- [哔哩哔哩TV版](http://down.znds.com/apk/tv/2018/0426/6289.html)
-- [爱奇艺TV版](http://app.shafa.com/apk/aiqiyipojieban.html)
+- [哔哩哔哩 TV 版](http://down.znds.com/apk/tv/2018/0426/6289.html)
+- [爱奇艺 TV 版](http://app.shafa.com/apk/aiqiyipojieban.html)
 - [蜜蜂视频](http://down.znds.com/apk/tv/2014/0910/1057.html)
-- [爱奇艺荔枝TV](http://down.znds.com/apk/tv/2015/0325/1925.html)
+- [爱奇艺荔枝 TV](http://down.znds.com/apk/tv/2015/0325/1925.html)
 
 ## 参考教程
-[1]移动魔百盒固件下载——<https://www.znds.com/rom/list/354.html>
+- [移动魔百盒固件下载](https://www.znds.com/rom/list/354.html)
 
-[2]魔百盒固件——<http://www.hdpfans.com/thread-792183-1-1.html>
+- [魔百盒固件](http://www.hdpfans.com/thread-792183-1-1.html)

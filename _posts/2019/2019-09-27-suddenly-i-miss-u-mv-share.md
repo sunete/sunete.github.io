@@ -7,7 +7,7 @@ tags:
   - 音乐
   - 分享
 ---
-今天逛B站偶然看到了一个up主[韵桀唱歌教学](https://www.bilibili.com/video/av66618622) 教唱五月天的《突然好想你》。这首歌听起来真的回忆满满，放在博客分享。
+今天逛 B 站偶然看到了一个 up 主 [韵桀唱歌教学](https://www.bilibili.com/video/av66618622) 教唱五月天的《突然好想你》。这首歌听起来真的回忆满满，放在博客分享。
 
 {% include video id="BV1Vx411J7Ez" provider="bilibili" %}
 
