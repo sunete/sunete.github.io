@@ -1,5 +1,5 @@
 ---
-title: "Centos 搭建 Telegram RSS 机器人教程"
+title: "CentOS 搭建 Telegram RSS 机器人教程"
 categories:
   - tutorial
 tags:
