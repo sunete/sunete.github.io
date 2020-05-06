@@ -10,6 +10,7 @@ toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
 ---
+
 之前经常用 [路过图床][2] 作为本博客的图床，今天在网上突然看到一个 [图床][1] 和 [路过图床][2] 是一个模板，于是看了一下这个网站的页脚，发现有模板官网链接，模板是国外的自托管图床软件 [chevereto][3]。
 
 官网地址：<https://chevereto.com/>
