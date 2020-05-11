@@ -31,4 +31,4 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ## explain shell
 [explain shell](https://www.explainshell.com/) 是一个用来查询 shell 命令相关帮助文本的网站。如果已经学习了一些 Linux 相关知识，但是 shell 命令的帮助文本记不住，就可以借助这个网站来查询。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511202328.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511202328.png"></a> </figure>
+<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511204339.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511204339.png"></a> </figure>
