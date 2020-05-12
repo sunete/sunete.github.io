@@ -1,5 +1,5 @@
 ---
-title: "把文章从Instapaper迁移到印象笔记"
+title: "把文章从 Instapaper 迁移到印象笔记"
 categories:
   - diary
   - tutorial

@@ -1,5 +1,5 @@
 ---
-title: "自托管图床软件chevereto"
+title: "自托管图床软件 chevereto"
 categories:
   - tutorial
 tags:

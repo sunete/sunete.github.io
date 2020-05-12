@@ -1,5 +1,5 @@
 ---
-title: "武汉肺炎疫情"
+title: "新冠肺炎疫情"
 categories:
   - diary
 tags:

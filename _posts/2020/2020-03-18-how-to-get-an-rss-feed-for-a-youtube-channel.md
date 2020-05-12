@@ -1,5 +1,5 @@
 ---
-title: "怎样获得YouTube频道RSS订阅链接"
+title: "获取 YouTube 频道 RSS 订阅链接教程"
 categories:
   - tutorial
 tags:

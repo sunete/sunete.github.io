@@ -1,5 +1,5 @@
 ---
-title: "NBA传奇巨星科比·布莱恩特去世"
+title: "NBA 传奇巨星科比·布莱恩特去世"
 categories:
   - diary
 tags:

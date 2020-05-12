@@ -1,5 +1,5 @@
 ---
-title: "2019年11月21日课程日记"
+title: "2019 年 11 月 21 日课程日记"
 categories:
   - diary
 tags:

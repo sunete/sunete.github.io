@@ -1,5 +1,5 @@
 ---
-title: "Netflix原创剧集《王国》第二季"
+title: "Netflix 原创剧集《王国》第二季"
 categories:
   - diary
 tags:

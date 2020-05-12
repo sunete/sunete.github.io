@@ -1,5 +1,5 @@
 ---
-title: "搭建Wordpress小记"
+title: "搭建 Wordpress 小记"
 categories:
   - tutorial
 tags:

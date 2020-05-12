@@ -1,5 +1,5 @@
 ---
-title: "清明节将WordPress转换为灰色模式"
+title: "WordPress 转换为灰色模式教程"
 categories:
   - tutorial
 tags:

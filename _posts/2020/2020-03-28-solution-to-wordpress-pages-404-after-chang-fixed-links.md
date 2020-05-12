@@ -1,5 +1,5 @@
 ---
-title: "【转载】WordPress更改固定链接404的解决办法"
+title: "【转载】WordPress 更改固定链接 404 的解决办法"
 categories:
   - tutorial
 tags:
