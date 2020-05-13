@@ -29,6 +29,10 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+# 对 css 和 js 资源的 cdn 加速配置
+cdn:
+    jsdelivr:
+        enabled: true
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse" , "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -94,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : Sunete浩仔
-  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://cdn.jsdelivr.net/gh/sunete/sunete.github.io/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "用心，感受这个世界。"
   location         : "China"
   email            : xuhao0347@gmail.com
