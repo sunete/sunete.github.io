@@ -52,6 +52,11 @@ sckey 是用于微信接收 [Server 酱][1] 发送到签到成功通知的，每
 
 至此，腾讯云函数自动打卡就已经设置完成了。接下来就是等着程序第二天自动帮你打卡了:smile:
 
+## 项目地址
+<https://github.com/lepecoder/checkin>
+
 
 [^1]: 办公四件套：WPS 文字、WPS 表格、WPS 演示、金山 PDF
+
+
 [1]: http://sc.ftqq.com/3.version
