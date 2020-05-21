@@ -49,7 +49,7 @@ comments:
     issue_term           : "pathname" # "pathname" (default)
 staticman:
   branch                 :  "master"
-  endpoint               :  https://dev.staticman.net/v3/entry/github/sunete/sunete.github.io/master
+  endpoint               :  # https://dev.staticman.net/v3/entry/github/sunete/sunete.github.io/master
 reCaptcha:
   siteKey                :
   secret                 :
