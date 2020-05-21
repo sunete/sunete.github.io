@@ -34,7 +34,7 @@ cdn:
     jsdelivr:
         enabled: true
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse" , "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse" , "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
