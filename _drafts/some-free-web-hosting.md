@@ -26,3 +26,6 @@ https://www.freehostia.com/
 
 ## 小熊主机
 https://bearhosting.co.uk/index.php
+
+## HoRain
+https://webs.horain.net/
