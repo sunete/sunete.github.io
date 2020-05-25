@@ -1,9 +1,11 @@
 ---
 title: "博客加载速度过慢问题"
 categories:
-  - blog
+  - website
 tags:
-  - 博客优化
+  - 网站
+  - Jekyll
+  - 日记
 toc: false
 toc_sticky: true
 toc_label: "标题"

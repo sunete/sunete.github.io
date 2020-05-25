@@ -4,8 +4,9 @@ categories:
   - tutorial
 tags:
   - GitHub
-  - Pull Request
-  - 博客主题
+  - Jekyll
+  - 网站
+  - 教程
 toc: true
 toc_sticky: true
 toc_label: "怎样Pull Request"

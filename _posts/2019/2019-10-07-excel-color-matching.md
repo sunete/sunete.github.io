@@ -2,12 +2,8 @@
 title: "表格颜色简单搭配"
 categories:
   - diary
-  - tutorial
 tags:
-  - 表格
-  - 颜色
-  - 搭配
-  - excel
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

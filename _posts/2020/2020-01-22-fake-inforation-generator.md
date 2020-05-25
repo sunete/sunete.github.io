@@ -3,9 +3,9 @@ title: "随机生成虚拟外国人全套信息 / 信用卡 / 身份信息的网
 categories:
   - tutorial
 tags:
-  - 网络安全
-  - 虚拟信息
-  - 实用网站
+  - 日记
+  - 教程
+  - 网站
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

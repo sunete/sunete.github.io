@@ -1,10 +1,10 @@
 ---
 title: "Jekyll 博客添加回到顶部按钮"
 categories:
-  - blog
+  - website
 tags:
-  - 博客
-  - 技术
+  - 网站
+  - 教程
   - Jekyll
 toc: true
 toc_sticky: true

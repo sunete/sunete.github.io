@@ -3,10 +3,7 @@ title: "双十一出行——长春行"
 categories:
   - diary
 tags:
-  - 旅游
-  - 购物
-  - 美食
-  - 火车
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

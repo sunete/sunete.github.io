@@ -3,10 +3,7 @@ title: "学会包容"
 categories:
   - diary
 tags:
-  - 生活
-  - 教学
-  - 学生
-  - 情感
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

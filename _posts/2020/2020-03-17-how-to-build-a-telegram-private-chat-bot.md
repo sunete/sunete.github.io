@@ -3,9 +3,8 @@ title: "如何创建一个 telegram 私聊机器人"
 categories:
   - tutorial
 tags:
-  - telegram
-  - 隐私
-  - bot
+  - 教程
+  - Telegram
 toc: true
 toc_sticky: true
 toc_label: "如何创建消息转发机器人"

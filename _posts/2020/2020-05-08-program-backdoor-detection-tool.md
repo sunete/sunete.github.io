@@ -3,9 +3,8 @@ title: "Web 源码后门检测工具"
 categories:
   - tutorial
 tags:
-  - 检测工具
-  - 网站程序
-  - 在线检测
+  - 网站
+  - 教程
 toc: false
 toc_sticky: true
 toc_label: "标题"

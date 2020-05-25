@@ -3,9 +3,8 @@ title: "Netflix 原创剧集《王国》第二季"
 categories:
   - diary
 tags:
-  - 韩剧
-  - Netflix
-  - 观影
+  - 影视
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

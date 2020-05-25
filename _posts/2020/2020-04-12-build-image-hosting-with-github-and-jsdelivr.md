@@ -3,9 +3,11 @@ title: "GitHub+jsDelivr+PicGo 搭建免费图床"
 categories:
   - tutorial
 tags:
-  - 图床
   - GitHub
-  - JsDelivr
+  - 教程
+  - 网站
+  - Jekyll
+  - Windows
 toc: true
 toc_sticky: true
 toc_label: "Github图床搭建教程"

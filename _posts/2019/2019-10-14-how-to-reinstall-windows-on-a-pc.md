@@ -3,10 +3,8 @@ title: "重装 Windows 系统"
 categories:
   - tutorial
 tags:
-  - Windows 系统
+  - Windows
   - 教程
-  - 技术
-  - 电脑
 toc: true
 toc_sticky: true
 toc_label: "如何重装系统"

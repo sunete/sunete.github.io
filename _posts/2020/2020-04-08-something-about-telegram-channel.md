@@ -3,10 +3,8 @@ title: "做事要有垂直度"
 categories:
   - diary
 tags:
-  - telegram
-  - 流量
-  - 垂直度
-  - 专项
+  - 日记
+  - Telegram
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

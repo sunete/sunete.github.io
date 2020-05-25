@@ -1,11 +1,10 @@
 ---
 title: "圈小猫游戏"
 categories:
-  - blog
+  - website
 tags:
-  - 游戏
-  - 网页源码
-  - 娱乐
+  - 网站
+  - Jekyll
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

@@ -3,9 +3,8 @@ title: "路由器折腾之换用小米路由器3"
 categories:
   - diary
 tags:
-  - 路由器
-  - 移动硬盘
-  - 网络测试
+  - 日记
+  - 教程
 toc: true
 toc_sticky: true
 toc_label: "更换路由器"

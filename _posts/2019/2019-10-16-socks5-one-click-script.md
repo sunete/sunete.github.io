@@ -3,10 +3,8 @@ title: "Scoks5 一键搭建脚本"
 categories:
   - tutorial
 tags:
-  - socks5
-  - 一键脚本
-  - Linux
-  - 服务器
+  - 教程
+  - VPS
 toc: true
 toc_label: "Scoks5一键搭建脚本"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

@@ -3,10 +3,8 @@ title: "移动魔百盒刷机教程"
 categories:
   - tutorial
 tags:
-  - 魔百盒
-  - 刷机
-  - 电视机顶盒
-  - 固件
+  - 教程
+  - 电视
 toc: true
 toc_sticky: true
 toc_label: "移动魔百盒刷机教程"

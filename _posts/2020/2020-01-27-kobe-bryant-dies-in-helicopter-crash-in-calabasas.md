@@ -3,9 +3,8 @@ title: "NBA 传奇巨星科比·布莱恩特去世"
 categories:
   - diary
 tags:
-  - NBA
-  - 科比布·莱恩特
-  - 直升机失事
+  - 日记
+  - 新闻
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

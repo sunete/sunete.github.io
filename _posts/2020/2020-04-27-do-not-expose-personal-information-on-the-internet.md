@@ -3,9 +3,8 @@ title: "不要把个人信息暴露在互联网上"
 categories:
   - diary
 tags:
-  - 隐私
-  - 个人信息
-  - 网络安全
+  - 日记
+  - 网站
 toc: true
 toc_sticky: true
 toc_label: "网络安全"

@@ -1,11 +1,11 @@
 ---
-title: "自托管图床软件 chevereto"
+title: "自托管图床程序 Chevereto"
 categories:
   - tutorial
 tags:
-  - 图床
-  - chevereto
   - 网站
+  - 教程
+  - GitHub
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

@@ -2,6 +2,10 @@
 title: "Bilibili 视频适应页面宽度"
 categories:
   - tutorial
+tags:
+  - 网站
+  - Jekyll
+  - 教程
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

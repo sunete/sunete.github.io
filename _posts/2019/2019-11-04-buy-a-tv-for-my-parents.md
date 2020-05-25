@@ -4,9 +4,7 @@ categories:
   - diary
 tags:
   - 电视
-  - 显示器
-  - 京东
-  - 网购
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

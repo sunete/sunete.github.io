@@ -3,8 +3,7 @@ title: "Linux 入门学习资料推荐"
 categories:
   - diary
 tags:
-  - Linux
-  - 学习资料
+  - 日记
 toc: false
 toc_sticky: true
 toc_label: "标题"

@@ -3,9 +3,8 @@ title: "新冠肺炎疫情"
 categories:
   - diary
 tags:
-  - 肺炎
-  - 新型冠状病毒
-  - 疫情动态报道
+  - 日记
+  - 新闻
 toc: true
 toc_sticky: true
 toc_label: "新型冠状病毒肺炎"

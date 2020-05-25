@@ -3,9 +3,8 @@ title: "新冠肺炎疫情发展趋势"
 categories:
   - diary
 tags:
-  - 肺炎
-  - 疫情
-  - 时事
+  - 日记
+  - 新闻
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

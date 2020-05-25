@@ -1,13 +1,10 @@
 ---
 title: "把文章从 Instapaper 迁移到印象笔记"
 categories:
-  - diary
-  - tutorial
+  - dairy
 tags:
-  - Instapaper
-  - 印象笔记
-  - IFTTT
-  - 稍后阅读
+  - 教程
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

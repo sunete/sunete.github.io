@@ -3,10 +3,10 @@ title: "CentOS 搭建 Telegram RSS 机器人教程"
 categories:
   - tutorial
 tags:
-  - Telegram 机器人
-  - RSS
-  - VPS
   - 教程
+  - Telegram
+  - GitHub
+  - VPS
 toc: true
 toc_sticky: true
 toc_label: "搭建教程"

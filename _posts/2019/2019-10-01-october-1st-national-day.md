@@ -2,12 +2,10 @@
 title: "十一国庆节"
 categories:
   - diary
-  - blog
 tags:
-  - 国庆
-  - 节日
-  - 阅兵
-  - 庆典
+  - 日记
+  - 网站
+  - Jekyll
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

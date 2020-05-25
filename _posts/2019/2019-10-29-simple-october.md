@@ -3,9 +3,7 @@ title: "简单的十月份"
 categories:
   - diary
 tags:
-  - 总结
-  - 情绪
-  - 生活
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

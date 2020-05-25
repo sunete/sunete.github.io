@@ -3,9 +3,7 @@ title: "2019 年 11 月 21 日课程日记"
 categories:
   - diary
 tags:
-  - 物理
-  - 授课
-  - 备课
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

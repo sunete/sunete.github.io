@@ -1,7 +1,7 @@
 ---
 title: "免费主机收集"
 categories:
-  - blog
+  - website
 tags:
   - 免费主机
   - 虚拟主机

@@ -2,10 +2,11 @@
 title: "修改主题之在标题下方添加文章发布时间"
 categories:
   - tutorial
-  - blog
+  - website
 tags:
-  - 博客
-  - 代码
+  - 网站
+  - 教程
+  - Jekyll
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

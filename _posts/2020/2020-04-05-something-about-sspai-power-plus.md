@@ -3,9 +3,7 @@ title: "知识付费"
 categories:
   - diary
 tags:
-  - 少数派
-  - 版权
-  - 知识付费
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

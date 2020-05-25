@@ -3,9 +3,7 @@ title: "更换小米手环 2 腕带"
 categories:
   - diary
 tags:
-  - 小米手环2
-  - 腕带
-  - 网购
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

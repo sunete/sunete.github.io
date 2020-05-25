@@ -5,7 +5,7 @@ categories:
 tags:
   - 网站
   - 教程
-  - wordpress
+  - WordPress
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

@@ -4,9 +4,9 @@ categories:
   - tutorial
 tags:
   - WordPress
-  - 清明节
-  - 灰色模式
-  - 代码
+  - 教程
+  - 日记
+  - 网站
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

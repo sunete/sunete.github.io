@@ -3,7 +3,7 @@ title: "我所看过的影视作品"
 categories:
   - diary
 tags:
-  - 电影
+  - 日记
   - 影视
 toc: true
 toc_label: "我所看过的影视作品"

@@ -4,7 +4,6 @@ categories:
   - tutorial
 tags:
   - 教程
-  - RSS
   - YouTube
 toc: true
 toc_sticky: true

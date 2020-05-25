@@ -4,8 +4,7 @@ categories:
   - diary
 tags:
   - 日记
-  - 技术
-  - 博客
+  - 网站
 ---
 
 ## 折腾什么 :grey_question:

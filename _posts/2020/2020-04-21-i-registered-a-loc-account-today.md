@@ -3,9 +3,7 @@ title: "终于注册了全球主机交流论坛账号"
 categories:
   - diary
 tags:
-  - 全球主机交流论坛
-  - 邀请码
-  - 注册账号
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

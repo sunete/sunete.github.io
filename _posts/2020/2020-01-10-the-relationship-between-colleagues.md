@@ -3,9 +3,7 @@ title: "辅导班中的人际关系"
 categories:
   - diary
 tags:
-  - 人际关系
-  - 相处
-  - 同事关系
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

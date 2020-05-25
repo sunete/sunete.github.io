@@ -1,9 +1,11 @@
 ---
 title: "Jekyll 开启生产模式方法"
 categories:
-  - blog
+  - tutorial
 tags:
-  - 博客
+  - 教程
+  - Jekyll
+  - 网站
 toc: false
 toc_sticky: true
 toc_label: "标题"

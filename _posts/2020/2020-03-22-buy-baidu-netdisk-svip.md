@@ -3,10 +3,7 @@ title: "购买百度网盘 SVIP"
 categories:
   - diary
 tags:
-  - 百度网盘
-  - 会员
-  - 充值
-  - 消费
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	

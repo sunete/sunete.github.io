@@ -3,9 +3,7 @@ title: "朋友圈需要正能量"
 categories:
   - diary
 tags:
-  - 朋友圈
-  - 情感
-  - 社交
+  - 日记
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
