@@ -3,9 +3,8 @@ title: "免费主机收集"
 categories:
   - website
 tags:
-  - 免费主机
+  - 网站
   - 虚拟主机
-  - 搭建网站
 toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
@@ -14,9 +13,6 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 ## Krypt ION
 https://ion.krypt.com/
-
-## XREA
-http://www.xrea.com/
 
 ## PIPNI.CZ
 http://www.pipni.cz/
