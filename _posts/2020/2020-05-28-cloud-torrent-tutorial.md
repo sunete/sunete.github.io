@@ -68,7 +68,7 @@ BT 下载，点击输入框右侧上传按钮，选择种子文件，上传后�
 <figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528114534.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528114534.png"></a> </figure>
 
 ## 测试效果
-最近[《天气之子》][https://www.imdb.com/title/tt9426210/]这部动漫电影很火，刚出了 BD 版本，就去 [bt之家][1] 下载了蓝光 4K 版本种子。测试离线速度很快，大约 20MB/s。当然，离线速度除了取决于服务器性能外，还与种子的热度有关，越热门的资源离线速度越快。
+最近[《天气之子》][2]这部动漫电影很火，刚出了 BD 版本，就去 [bt之家][1] 下载了蓝光 4K 版本种子。测试离线速度很快，大约 20MB/s。当然，离线速度除了取决于服务器性能外，还与种子的热度有关，越热门的资源离线速度越快。
 
 <figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528091833.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528091833.png"></a> </figure>
 
@@ -131,3 +131,4 @@ BT 下载，点击输入框右侧上传按钮，选择种子文件，上传后�
 - [Github--Cloud Torrent](https://github.com/jpillora/cloud-torrent)
 
 [1]: https://www.btbtt.co
+[2]: [https://www.imdb.com/title/tt9426210/]
