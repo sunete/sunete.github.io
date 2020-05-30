@@ -1,0 +1,40 @@
+---
+title: "404 Not Found"
+excerpt: "Page not found. Your pixels are in another canvas."
+sitemap: false
+permalink: /404.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{%- include head.html -%}
+	<style>
+	h2 {
+		font-feature-settings: "lnum";
+		background-color: #ddd;
+		width: 240px;
+		height: 240px;
+		border-radius: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center
+	}
+	body {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		font-size: 20px;
+		height: 80vh;
+	}
+	p {text-align: center; line-height: 2em;}
+	</style>
+</head>
+<body>
+	<center><h2>4 0 4<br>NOT FOUND</h2></center>
+	<br>
+	<br>
+	<button onclick="window.location.href='javascript:history.go(-1);'">返回上一页</button>
+</body>
+
+</html>
