@@ -3,8 +3,7 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% else %}
-  <script src="https://cdn.jsdelivr.net/gh/sunete/sunete.github.io/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
