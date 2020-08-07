@@ -5,7 +5,7 @@ categories:
 tags:
   - 教程
   - 分享
-toc: false
+toc: true
 toc_sticky: true
 toc_label: "标题"
 toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
