@@ -24,5 +24,10 @@ Valine 初次加载 5 秒！main.min.js 竟然耗时 7 秒多 :sweat:
 
 [![20200807184320](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200807184320.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200807184320.png)
 
-由于博客也没人留言，所以还是把评论关闭了。如果哪位朋友想要联系我，就用 [E-mail](mailto:xuhao0347@gmail.com) 吧。至于 main.min.js 这个坑暂时先留在这里，有时间再填。
+由于博客也没人留言，所以还是把评论关闭了。如果哪位朋友想要联系我，就用 [E-mail](mailto:xuhao0347@gmail.com) 吧。至于 main.min.js 我也同样用 jsDelivr 加速，修改 `scripts.html` 中调用 main.min.js 文件代码为
+
+```
+<script src="https://cdn.jsdelivr.net/gh/sunete/sunete.github.io/assets/js/main.min.js"></script>
+```
+即可实现 js 文件加速，可大大提升网站加载速度。
 

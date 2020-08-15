@@ -31,7 +31,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 打开盖子后就是五颜六色，像彩虹一样的五号电池，非常漂亮。好，颜值即正义！
 
-<figure> <a href="https://s1.ax1x.com/2020/06/19/NK74ET.png"><img src="https://s1.ax1x.com/2020/06/19/NK74ET.png"></a> </figure>
+[![20200815142826](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200815142826.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200815142826.png)
 
 ## 米家蓝牙温湿度计 2
 温湿度计是在小米商城参加活动抽奖抽到的，零元购买，原本只中了一个，但是小米却给我寄来了两个，算是一个小惊喜吧。
