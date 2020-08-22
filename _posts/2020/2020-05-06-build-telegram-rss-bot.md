@@ -1,5 +1,5 @@
 ---
-title: "CentOS 搭建 Telegram RSS 机器人教程"
+title: "Telegram RSS 机器人搭建教程"
 categories:
   - tutorial
 tags:
@@ -72,6 +72,9 @@ docker run --name rssbot -d -v <directory to store database file>:/app/data/ -e 
 
 执行完成后会返回一串数字和字母，到这里机器人就部署完成了。
 
+如果想修改机器人其他配置，可在 Docker 命令中添加相应环境变量进行修改，示例如下：
+
+`docker run --name rssbot -d -v /var/data:/app/data/ -e RSSBOT_TOKEN=<YOUR_TGBOT_TOKEN> -e RSSBOT_FETCH_GAP=10m -e RSSBOT_VIEW_ALL=true fengkx/node_rssbot`
 ## 使用 RSS 机器人
 回到 Telegram 私聊 RSS 机器人以下消息，即可使用。
 
@@ -92,3 +95,53 @@ docker run --name rssbot -d -v <directory to store database file>:/app/data/ -e 
 <figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200506183522.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200506183522.png"></a> </figure>
 
 后续如果想在机器人聊天窗口添加可使用的快捷命令，在 [BotFather](https://telegram.me/BotFather) 设置就可以了。
+
+## 其他设置
+### Ubuntu 安装 Docker
+
+```
+curl  - o -  https://get.docker.com | sudo bash
+sudo curl  - L "https://github.com/docker/compose/releases/download/1.26.2/docker - compose - $(uname  - s) - $(uname  - m)"  - o /usr/local/bin/docker - compose
+sudo chmod +x /usr/local/bin/docker - compose
+```
+
+### Docker 删除容器和镜像
+列出所有容器 ID
+```
+docker ps -aq
+```
+
+查看所有运行或者不运行容器
+```
+docker ps -a
+```
+
+停止所有的 container（容器），这样才能够删除其中的 images
+```
+docker stop $(docker ps -a -q) 或者 docker stop $(docker ps -aq) 
+```
+
+如果想要删除所有 container（容器）的话再加一个指令：
+```
+docker rm $(docker ps -a -q) 或者 docker rm $(docker ps -aq) 
+```
+
+查看当前有些什么 images
+```
+docker images
+```
+
+删除 images（镜像），通过 image 的 id 来指定删除谁
+```
+docker rmi <image id>
+```
+
+要删除全部image（镜像）
+```
+docker rmi $(docker images -q)
+```
+
+强制删除全部 image
+```
+docker rmi -f $(docker images -q)
+```
