@@ -64,12 +64,6 @@ toc_icon: "paper-plane"  # Font Awesome对应图标名称 (无fa前缀)
 
 ## 科学上网搭建教程
 
-### IBM 免费搭建 v2ray
-- 速度： :star::star::star::star::star:
-- 搭建难度 :star::star::star::star:
-- 项目地址： <https://github.com/CCChieh/IBMYes>
-- 简介：使用 IBM Cloud Fonudray 搭建 v2ray ws，借助于 Cloudflare 高速节点中转，达到高速科学上网。
-
 ### SS/SSR 一键脚本
 1. 逗比 SS 一键脚本
 ```
