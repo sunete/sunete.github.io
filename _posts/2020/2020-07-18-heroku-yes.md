@@ -7,7 +7,7 @@ tags:
   - 分享
 toc: true
 toc_sticky: true
-toc_label: "标题"
+toc_label: "搭建教程"
 toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 之前按照 GitHub 项目 [IBMYes](https://github.com/CCChieh/IBMYes) 的教程，利用 IBM 免费搭建了一个 V2Ray，通过 CloudFlare 中转后，速度的确很快，稳定运行了将近一个月。但是随着用的人越来越多，IBM 也逐渐不稳定了，晚高峰速度变慢，偶尔断流。所以就利用Heroku 再搭建一个 V2Ray。下面详细说明搭建流程。
