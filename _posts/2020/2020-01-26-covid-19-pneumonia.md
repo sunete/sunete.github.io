@@ -59,14 +59,14 @@ toc_icon: "plus-square"  # Font Awesome对应图标名称 (无fa前缀)
  2. [香港行政政府卫生防护中心关于新型肺炎的主页][16]
  3. [世界卫生组织 - 冠状病毒页面][17]
 
-### 结语
+### 写在最后
 希望武汉疫情早日得到控制，不要再殃及到更多的人。自己平时也要多加防护。
 
 
-  [1]: https://i.loli.net/2020/01/27/JfVbTLpWt52uCld.jpg
-  [2]: https://i.loli.net/2020/01/27/LYKn95TqmIpCzE1.png
-  [3]: https://baike.baidu.com/item/%E9%87%8D%E7%97%87%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E7%BB%BC%E5%90%88%E5%BE%81/5891268?fromtitle=%E9%9D%9E%E5%85%B8%E5%9E%8B%E8%82%BA%E7%82%8E&fromid=392361
-  [4]: https://i.loli.net/2020/01/27/D4zHmgKe8RQhSky.png
+  [1]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211190446.png
+  [2]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211190549.png
+  [3]: https://baike.baidu.com/item/SARS事件
+  [4]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211191023.png
   [5]: https://3g.dxy.cn/newh5/view/pneumonia
   [6]: http://m.medsci.cn/wh.asp
   [7]: https://news.sina.cn/zt_d/yiqing0121

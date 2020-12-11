@@ -14,10 +14,10 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 打开电视后检查一下屏幕没有任何问题，就试着播放提前下好的 4K 视频看看清晰度如何，果然，4K 屏幕看起来爽得很。
 
-![微信图片_20191118213346.jpg](https://i.loli.net/2019/11/18/fzr1mT7dU2L9Hin.jpg)
+[![20201211181846](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181846.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181846.png)
 
 虽说清晰度很好，性价比超高，但小米电视终究是有一点不足之处，就是开机 15 秒广告。但是不影响使用，不会太在意这个。    
 
 下午妹妹回家后在电视上安装了哔哩哔哩 TV 版，看了一部新番，拍了一张照片，看着也很满意。以后爸妈闲下来看看电视也很不错，至少大电视看着就爽。开心 :blush:
 
-![微信图片_20191118213335.jpg](https://i.loli.net/2019/11/18/KFiBxpdzec3Q8jo.jpg)
+[![20201211181912](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181912.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181912.png)

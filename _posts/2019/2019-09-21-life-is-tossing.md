@@ -34,7 +34,8 @@ tags:
 
 ## 折腾成果
 这个网站，以及下面这幅图完全说明了搭建网站两天内的工作量：不算本地调试在内，一共有 21 次提交
-![github.png](https://i.loli.net/2019/09/21/J9ESK8NyOs2IUjM.png)
+
+[![20201211174122](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211174122.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211174122.png)
 
 ## 不足之处
 虽然说耗时 2 天搭建网站，但是整个过程下来，网站还有很多不足之处。比如最基本的归档页面，没有搭建成功，还需要学习。很多设置也没有完成，需要以后慢慢填坑。
