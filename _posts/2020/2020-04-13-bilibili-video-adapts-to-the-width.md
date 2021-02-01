@@ -90,12 +90,10 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 ![](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200413172503.png)
 
-## 效果演示
-原视频：[【漫威/DC/踩点/1080p】前方高能！使人起鸡皮疙瘩的踩点与衔接的视觉盛宴！](https://www.bilibili.com/video/BV1Vb41177ud)
+### 视频测试
+[Bilibili 视频](https://www.bilibili.com/video/BV1Vb41177ud)
 
-<div class="responsive-video-container">
-  <iframe src="//player.bilibili.com/player.html?aid=46996647&bvid=BV1Vb41177ud&cid=98464161&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
+{% include video id="BV1Vb41177ud" provider="bilibili" %}
 
 ## 参考文章
 - [【前端笔记】使用 iframe 嵌入等比缩放的哔哩哔哩视频](https://blog.potatofield.cn/%e3%80%90%e5%89%8d%e7%ab%af%e7%ac%94%e8%ae%b0%e3%80%91%e4%bd%bf%e7%94%a8iframe%e5%b5%8c%e5%85%a5%e7%ad%89%e6%af%94%e7%bc%a9%e6%94%be%e7%9a%84%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9%e8%a7%86%e9%a2%91/)
