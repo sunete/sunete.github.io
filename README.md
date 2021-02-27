@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> This is my static jekyll blog hosted on github pages.I often update some posts about my own life and other things.
+> This is my static jekyll blog hosted on github pages. I often update some posts about my own life and other things.
 
 ### 🏠 Homepage <https://sunete.github.io/>
 
