@@ -77,3 +77,7 @@ Hi ~ 你好呀:smiley:
 2020/06/04 添加 Valine 评论系统
 
 2020/06/06 Valine 评论系统支持邮件提醒
+
+2021/01/28 停用 Valine 评论系统
+
+2021/02/27 用 Github Action 替代 Travis-CI 提交索引
