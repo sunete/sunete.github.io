@@ -9,5 +9,5 @@ gem 'font-awesome-sass'
 group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jemoji'
-  gem "jekyll-algolia"
+  gem 'jekyll-algolia'
 end
