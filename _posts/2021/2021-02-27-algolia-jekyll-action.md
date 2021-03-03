@@ -71,36 +71,8 @@ bundle exec jekyll algolia
 
 ## 五、新建 Workflow 文件
 在博客项目 `/.github/workflows/` 文件夹下新建一个工作流程 yml 文件，例如 `algolia-search.yml`，并在文件中添加如下代码
-```
-on:
-  push:
-    branches:
-      - master
-      - main
 
-name: algolia-search
-jobs:
-  algolia-search:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      
-      - uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.6'
-          
-      - uses: actions/cache@v2
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-            
-      - name: Algolia Jekyll Action
-        uses: dieghernan/algolia-jekyll-action@v1
-        with:
-          APIKEY: '${{ secrets.ALGOLIA_API_KEY }}'
-```
+[点击查看代码](https://github.com/dieghernan/algolia-jekyll-action#the-action){: .btn .btn--primary}
 
 添加完成后，在博客的 main 或者 master 分支有任何的提交，都会运行 GitHub Action 进行自动构建。
 
