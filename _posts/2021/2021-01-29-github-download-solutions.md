@@ -12,6 +12,22 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ---
 上网找的几个 GitHub 加速下载方法，推荐修改系统 hosts 的方法，一劳永逸。其他方法下载加速效果因人而异，收藏备用。
 
+## 修改 hosts
+通过修改系统的 hosts 文件也可实现加速效果，具体实现方法可参考文章 [《GitHub（国内）加速》][9]。
+
+下面是我通过 [站长工具][10] 和 [IPAddress][11] 查询后在 hosts 中添加的内容
+
+```
+52.74.223.119 github.com
+
+185.199.110.153 assets-cdn.github.com
+185.199.108.153 assets-cdn.github.com
+185.199.109.153 assets-cdn.github.com
+185.199.111.153 assets-cdn.github.com
+
+151.101.229.194 github.global.ssl.fastly.net
+```
+
 ## 在线网页
 在线下载网站的方便之处在于不受限于设备，随开随用，但加速效果还是受限于网络状况。
 
@@ -64,21 +80,6 @@ https://cdn.jsdelivr.net	中国国内
 
 https://raw.fastgit.org	中国香港	
 
-## 修改 hosts
-通过修改系统的 hosts 文件也可实现加速效果，具体实现方法可参考文章 [《GitHub（国内）加速》][9]。
-
-下面是我通过 [站长工具][10] 查询后在 hosts 中添加的内容
-
-```
-13.229.188.59 github.com
-
-185.199.110.153 assets-cdn.github.com
-185.199.108.153 assets-cdn.github.com
-185.199.109.153 assets-cdn.github.com
-185.199.111.153 assets-cdn.github.com
-
-151.101.229.194 github.global.ssl.fastly.net
-```
 
 [1]: https://github.com/fastgitorg/document
 [2]: https://github.com/hunshcn/gh-proxy
@@ -90,3 +91,4 @@ https://raw.fastgit.org	中国香港
 [8]: https://greasyfork.org/zh-CN/scripts/398278-github-镜像访问-加速下载
 [9]: https://www.cnblogs.com/wylshkjj/p/13369627.html
 [10]: http://tool.chinaz.com/dns
+[11]: https://www.ipaddress.com/
