@@ -27,6 +27,26 @@ sudo iptables -P OUTPUT ACCEPT
 sudo iptables -F
 ```
 
+### 查看、结束占用端口的进程
+查看占用端口的进程
+```
+lsof -i:端口号
+```
+
+输出如下
+```
+$ lsof -i:80
+COMMAND  PID     USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+nginx   3559     root    6u  IPv4  55147      0t0  TCP *:http (LISTEN)
+nginx   3559     root    7u  IPv6  55148      0t0  TCP *:http (LISTEN)
+```
+输出的 PID 为进程号
+
+结束占用端口的进程
+```
+kill -9 进程号
+```
+
 ### 修改服务器 hosts
 打开 hosts 的编辑文本模式
 ```
