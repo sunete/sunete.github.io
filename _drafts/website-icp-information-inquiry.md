@@ -15,5 +15,8 @@ https://icp.chinaz.com/
 ## ICPList
 https://www.icplist.com/
 
-## ICP备案查询网
+## ICP 备案查询网
 https://www.xbeian.com/
+
+## 萌咖 ICP 接口查询
+https://api.moeclub.org/ICP/域名

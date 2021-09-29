@@ -37,6 +37,23 @@ https://www.youtube.com/feeds/videos.xml?channel_id=
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
 ```
 
+除此之外，有些频道链接的形式不同于上方，形如
+
+```
+https://www.youtube.com/c/inanutshell
+```
+
+这样的链接处理方式也是一样的，在连接末尾找到频道 ID： `inanutshell` ，添加在下面链接的末尾即可。
+
+```
+https://www.youtube.com/feeds/videos.xml?user=
+```
+
+最后获得的 [Kurzgesagt – In a Nutshell][2] 频道 RSS 订阅链接：
+
+```
+https://www.youtube.com/feeds/videos.xml?user=inanutshell
+```
 ### 二、利用 feeder.co 查找 RSS 订阅源
 [feeder.co][3] 是一款 RSS 订阅软件，其包含移动端 app 和 chrome 插件，这里我们利用 feeder.co 的 chrome 插件——[RSS Feed Reader][4] 来寻找 RSS 订阅链接。此方法适用于大多数包含却没有给出 RSS 订阅链接的网站，并不能为网站生成 RSS 源。
 
