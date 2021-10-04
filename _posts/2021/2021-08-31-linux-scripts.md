@@ -62,6 +62,11 @@ vi /etc/hosts
 
 国内服务器可以修改 hosts 实现加速 GitHub 访问效果，推荐使用 [Github520](https://github.com/521xueweihan/GitHub520) 的 hosts 。
 
+### 干掉宝塔面板强制登录
+```
+rm -f /www/server/panel/data/bind.pl
+```
+
 ### Cloudflare WARP 一键配置脚本
 项目地址：<https://github.com/P3TERX/warp.sh>
 
