@@ -76,7 +76,7 @@ https://github.com.cnpmjs.org	新加坡
 
 https://raw.sevencdn.com	中国国内	
 
-https://cdn.jsdelivr.net	中国国内	
+https://fastly.jsdelivr.net	中国国内	
 
 https://raw.fastgit.org	中国香港	
 

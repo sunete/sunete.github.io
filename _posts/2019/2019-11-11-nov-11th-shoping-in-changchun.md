@@ -26,7 +26,7 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 ## 吃午饭
 买完衣服出来后就已经 11:30 分了。因为下午赶着办事，所以匆忙的去了饭店，还是上次去的火锅鸡，只不过这次提前预定了位置。饭店就在万达西南侧，出门大概 200 米就到了。上菜很快，这次点的是酱香火锅鸡。因为上次点的微辣，结果很辣，吃过之后胃不舒服，所以决定这次吃不辣的。
 
-[![20201211181738](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181738.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181738.png)
+[![20201211181738](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211181738.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211181738.png)
 
 但是入口立刻就尝出来，没有上次点的微辣火锅鸡香。两个人每次来吃火锅鸡，都是吃一半剩一半，太浪费了，下次换一家饭店尝尝。
 

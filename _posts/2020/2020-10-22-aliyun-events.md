@@ -20,7 +20,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 开发者训练营打卡活动大多于 26 号开始，只要能在活动期间按时完成打卡，就能领取实物奖品。部分奖品图片。
 
-[![20201022102953](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022102953.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022102953.png)
+[![20201022102953](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022102953.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022102953.png)
 
 ### 实时计算 Flink 中级训练营(25日)
 
@@ -33,7 +33,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 活动礼品：Flink 定制卫衣和 500 元“奖学金”代金券
 
-[![20201022105541](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022105541.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022105541.png)
+[![20201022105541](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022105541.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022105541.png)
 
 ### 实时数仓 Hologres 训练营(26日)
 [戳我报名 实时数仓 Hologres 训练营](https://developer.aliyun.com/learning/trainingcamp/holo/2){: .btn .btn--info}
@@ -42,7 +42,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 活动礼品：Hologres 定制 T 恤、Flink 定制 T 恤（2 选 1）
 
-[![20201022104429](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022104429.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022104429.png)
+[![20201022104429](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022104429.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022104429.png)
 
 ### SaaS模式云数据仓库中级训练营(26日)
 
@@ -60,7 +60,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 活动礼品：定制保温杯、雨伞、淘公仔(3选1)
 
-[![20201022143212](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022143212.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022143212.png)
+[![20201022143212](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022143212.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022143212.png)
 
 
 ### 云原生数据湖体系训练营(26日)
@@ -70,7 +70,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 活动礼品：定制保温杯
 
-[![20201022143404](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022143404.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022143404.png)
+[![20201022143404](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022143404.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022143404.png)
 
 ### Elasticsearch实战进阶营(11月2日)
 [戳我报名 Elasticsearch实战进阶营](https://developer.aliyun.com/learning/trainingcamp/es/2){: .btn .btn--info}
@@ -79,7 +79,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 活动礼品：Elastic 定制 T 恤、保温杯(2选1) 
 
-[![20201022143512](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022143512.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022143512.png)
+[![20201022143512](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022143512.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022143512.png)
 
 
 ### 开源 Spark 实战训练营第三期(11月2日)
@@ -99,13 +99,13 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 [点击查询、兑换](https://club.aliyun.com/?spm=a2c4g.11186623.2.11.43957d34DGh4lV#/usePoints){: .btn .btn--info}
 
 阿里云续费代金券
-[![20201022144344](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022144344.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022144344.png)
+[![20201022144344](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022144344.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022144344.png)
 
 天猫超市代金卡
-[![20201022144459](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022144459.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022144459.png)
+[![20201022144459](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022144459.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022144459.png)
 
 实物
-[![20201022144543](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022144543.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201022144543.png)
+[![20201022144543](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022144543.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201022144543.png)
 
 ## 天池在线编程限时赛(周六)
 

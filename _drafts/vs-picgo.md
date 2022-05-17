@@ -1,1 +1,1 @@
-![20200429132804](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200429132804.png)
+![20200429132804](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200429132804.png)

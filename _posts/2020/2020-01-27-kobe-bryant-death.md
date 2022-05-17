@@ -27,7 +27,7 @@ NBA官方证实，他13岁的女儿吉安娜也在飞机上。<br>
 
 科比，一路走好！
 
-[1]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211185103.png
+[1]: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211185103.png
 [2]: https://en.wikipedia.org/wiki/Kobe_Bryant
 [3]: https://www.latimes.com/california/story/2020-01-26/aircraft-slams-into-hillside-explodes-in-flames-near-calabasas
 [4]: https://zh.wikipedia.org/wiki/2009-10_NBA%E8%B5%9B%E5%AD%A3

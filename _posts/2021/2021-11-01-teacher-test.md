@@ -15,14 +15,14 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 2021 下半年教师资格证考试的时间是 10 月 30 日。26 号，我把准考证打印了出来。
 
-[![20211102190751](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211102190751.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211102190751.png)
+[![20211102190751](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211102190751.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211102190751.png)
 
 >特别提示
 >考生须遵守我省防疫公告要求，并向考点提供本人考前48小时内核酸检测报告（纸质）及《健康承诺书》，否则将无法参加考试。
 
 打印准考证时发现，还需要纸质的核酸检测报告和『健康承诺书』，毕竟最近疫情又严重了。
 
-[![20211102194448](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211102194448.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211102194448.png)
+[![20211102194448](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211102194448.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211102194448.png)
 
 准备好了考试需要的文具和材料，就等考试啦。
 

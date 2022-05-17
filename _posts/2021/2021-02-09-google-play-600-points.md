@@ -10,17 +10,17 @@ toc_sticky: true
 toc_label: ""
 toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 gallery1:
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209204904.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209204904.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209204904.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209204904.png
     alt: "Picture 1"
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209205020.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209205020.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209205020.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209205020.png
     alt: "Picture 2"
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209205035.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209205035.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209205035.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209205035.png
     alt: "Picture 3"
 ---
-[![img20210209211014](https://cdn.jsdelivr.net/gh/sunete/imghost/imgimg20210209211014.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/imgimg20210209211014.png)
+[![img20210209211014](https://fastly.jsdelivr.net/gh/sunete/imghost/imgimg20210209211014.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/imgimg20210209211014.png)
 
 高兴事儿！今天成功白嫖到了 Google Play 6 美元余额，开心！
 
@@ -30,7 +30,7 @@ gallery1:
 
 不过今天，我找到了一个神器 [VMOS Pro][3]。利用 VMOS 创建一个虚拟机，伪装机型为 Google Pixel 5，成功领到了 600 积分！
 
-[![20210209205052](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209205052.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210209205052.png)
+[![20210209205052](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209205052.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210209205052.png)
 
 下面是我成功的截图，小晒一下，嘿嘿
 

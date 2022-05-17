@@ -21,11 +21,11 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 
 一、视频并不能自动适应网页宽度，嵌入后视频窗口太小，不适合观看
 
-![](https://cdn.jsdelivr.net/gh/sunete/imghost/img2020-04-13_09-47-04.png)
+![](https://fastly.jsdelivr.net/gh/sunete/imghost/img2020-04-13_09-47-04.png)
 
 二、直接嵌入的视频会自动播放弹幕，如果弹幕较多，会遮挡视频，影响观感
 
-![](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200413182227.png)
+![](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200413182227.png)
 
 所以，想在文章中嵌入哔哩哔哩视频，并达到适宜观看的目的，就必须解决上面两个问题。
 
@@ -88,7 +88,7 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 ### 其他 iframe 链接参数
 除上面提到的 `danmaku` 之外，iframe 嵌入代码还有视频清晰度、开始播放时间等其他的参数可以配置。
 
-![](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200413172503.png)
+![](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200413172503.png)
 
 ### 视频测试
 [Bilibili 视频](https://www.bilibili.com/video/BV1Vb41177ud)

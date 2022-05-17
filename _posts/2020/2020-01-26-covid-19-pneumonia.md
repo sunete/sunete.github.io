@@ -63,10 +63,10 @@ toc_icon: "plus-square"  # Font Awesome对应图标名称 (无fa前缀)
 希望武汉疫情早日得到控制，不要再殃及到更多的人。自己平时也要多加防护。
 
 
-  [1]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211190446.png
-  [2]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211190549.png
+  [1]: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211190446.png
+  [2]: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211190549.png
   [3]: https://baike.baidu.com/item/SARS事件
-  [4]: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211191023.png
+  [4]: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211191023.png
   [5]: https://3g.dxy.cn/newh5/view/pneumonia
   [6]: http://m.medsci.cn/wh.asp
   [7]: https://news.sina.cn/zt_d/yiqing0121

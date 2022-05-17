@@ -20,25 +20,25 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 2. 容量大小合适，不会太小不够用，也不会太大，导致过重
 3. 铝合金金属外壳，有质感，颜值高
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200619162950.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200619162950.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200619162950.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200619162950.png"></a> </figure>
 
 ## 彩虹 5 号电池
 五号电池，日常使用。家里虽然还有几节南孚，但是没用过小米的 [彩虹电池][2]，所以这次买一盒看看怎么样。十节电池 9.9 元，一元一节，性价比很高。
 
 塑料包装盒，卡口翻盖。里面整整齐齐地排列着十个各种颜色的五号电池。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img2020-06-19_16-45-16.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img2020-06-19_16-45-16.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img2020-06-19_16-45-16.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img2020-06-19_16-45-16.png"></a> </figure>
 
 打开盖子后就是五颜六色，像彩虹一样的五号电池，非常漂亮。好，颜值即正义！
 
-[![20200815142826](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200815142826.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200815142826.png)
+[![20200815142826](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200815142826.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200815142826.png)
 
 ## 米家蓝牙温湿度计 2
 温湿度计是在小米商城参加活动抽奖抽到的，零元购买，原本只中了一个，但是小米却给我寄来了两个，算是一个小惊喜吧。
 
 外观简洁，体型小巧，粘贴在墙面上很棒。平时用来看看室内的温湿度，很不错的小玩意。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200619181739.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200619181739.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200619181739.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200619181739.png"></a> </figure>
 
 ## 芙丽芳丝洗面奶
 芙丽芳丝是我一直在用的氨基酸洗面奶，对于我这种中性皮肤非常友好，洗完不干，清洁效果好。趁着 618 活动，在丁香医生一次买了三支，优惠后折合 80 元一支，比天猫旗舰店便宜不少。

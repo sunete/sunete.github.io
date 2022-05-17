@@ -19,7 +19,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ## 创建宏
 首先在工具栏选择 **开发工具**，点击 **宏**，填写宏名称后点击 **创建**。
 
-[![20211214175153](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211214175153.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211214175153.png)
+[![20211214175153](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211214175153.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211214175153.png)
 
 在新窗口中粘贴以下代码并保存。
 
@@ -57,6 +57,6 @@ End Sub
 ## 使用宏
 双击打开刚才保存的后缀为 `*.docm` 的宏文件。工具栏选择 **开发工具** 点击 **宏** ，就会出现以下界面。
 
-[![20211214182753](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211214182753.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20211214182753.png)
+[![20211214182753](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211214182753.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20211214182753.png)
 
 点击 **运行**，选择需要删除页眉页脚的文件（可选择多个文件），点击 **打开** 就会自动删除所有选中文档的页眉和页脚。

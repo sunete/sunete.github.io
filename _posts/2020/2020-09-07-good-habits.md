@@ -17,7 +17,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ## 背单词的无聊让我放弃
 可能大多数人背单词难以坚持的原因就是太无聊，对于我来说也不例外。记得在大学的时候，考英语四级之前，准备好好备考，可能大多数考过四级的人都买的是下面这本《新东方四级词汇》乱序版吧？可是脑残的我居然买了**顺序版**！
 
-[![20200907122841](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907122841.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907122841.png)
+[![20200907122841](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907122841.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907122841.png)
 
 于是，直到四级考试当天，我也只是记住了 abandon 一个单词。好在当时大一，高中英语还有些基础，四级一次就过了。但是背单词仍然是我的痛。
 
@@ -26,16 +26,16 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 但是电子化的词书，仍然没有解决背单词难的根本问题：枯燥乏味，难以坚持背下去。
 
-[![20200907132124](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907132124.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907132124.png)
+[![20200907132124](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907132124.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907132124.png)
 
 ## 改变源于游戏
 今年疫情期间，不能出门，经常家里玩游戏。那段时间非常喜欢玩[《死亡细胞》](https://store.steampowered.com/app/588650/Dead_Cells/)，游戏打击感超棒，玩起来有点上瘾，一玩就是一两个小时。
 
-[![20200907161035](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907161035.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907161035.png)
+[![20200907161035](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907161035.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907161035.png)
 
 一直用键盘操作，游戏玩久了，手指酸痛，就不得不停下来。于是我就萌生了买一个 Xbox 手柄的想法，用手柄玩游戏，岂不是更爽！上网搜了搜网友的评价，买手柄的念头蠢蠢欲动。
 
-[![20200907165019](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907165019.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907165019.png)
+[![20200907165019](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907165019.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907165019.png)
 
 可是，看了微软官网 Xbox 精英版手柄 ￥1398，价格劝退，还是用键鼠玩吧···
 
@@ -46,7 +46,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 一个月后，我完美地完成了给自己定的目标，并且在其后，每天都坚持背 20 个单词，已经持续了 190 天。
 
-[![20200907173304](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907173304.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20200907173304.png)
+[![20200907173304](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907173304.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20200907173304.png)
 
 1398 元的精英版 Xbox 手柄买了吗？没有。因为，当我完成一个月的背单词任务后，我已经不怎么玩《死亡细胞》了。于是我只花了 400 多买了一款普通版 Xbox 手柄，又给老妈买了一个全民 K 歌的麦克风。
 

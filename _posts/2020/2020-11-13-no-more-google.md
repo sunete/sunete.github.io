@@ -14,13 +14,13 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ---
 经常使用 Google 的人应该都在 12 号这一天收到了 Google Photos 存储政策调整的邮件。简言之，就是从明年 6 月起 Google Photos 不再提供无限存储空间，高画质照片将占用 Google 账户免费的 15G 存储空间。此消息一发出，在各大社区论坛，立即引起了轩然大波。纷纷吐槽 Google 不地道，政策随便改动，不能继续白嫖了。
 
-[![20201113082804](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113082804.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113082804.png)
+[![20201113082804](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113082804.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113082804.png)
 
 ## 谷歌调整策略情有可原
 
 虽说 Google 是国际大公司，但是每周 280 亿张照片的上传量，再大的公司也经不住这样的白嫖，改为收费也是情有可原的。这也提醒了我，不要太依赖 Google 产品。如果把鸡蛋都放在一个篮子里，说不准哪天就会产生巨大的损失。所以对于经常使用 Google 产品的人，就要去寻找合适的替代方案了。
 
-[![20201113081923](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113081923.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113081923.png)
+[![20201113081923](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113081923.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113081923.png)
 
 ## 自建门槛过高
 
@@ -34,7 +34,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 No More Google：<https://nomoregoogle.com/>
 
-[![20201113094038](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113094038.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113094038.png)
+[![20201113094038](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113094038.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113094038.png)
 
 ## Restore Privacy
 
@@ -42,7 +42,7 @@ No More Google：<https://nomoregoogle.com/>
 
 Google 产品的替代品：<https://restoreprivacy.com/google-alternatives/>
 
-[![20201113112043](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113112043.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201113112043.png)
+[![20201113112043](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113112043.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201113112043.png)
 
 ## 数据无价
 

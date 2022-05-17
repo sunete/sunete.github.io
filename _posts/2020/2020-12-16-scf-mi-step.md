@@ -18,13 +18,13 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ## 云函数配置
 登录 [腾讯云函数控制台](https://console.cloud.tencent.com/scf/list)，新建函数，运行环境选择 `Python 3.6`，模板函数选择 `helloworld` 模板。
 
-[![20201216174117](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201216174117.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201216174117.png)
+[![20201216174117](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201216174117.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201216174117.png)
 
 ## 函数代码
 ### 新建 data_json.txt
 新建名为 `data_json.txt` 的文件，文件内容 [点击此处下载](https://www.lanzoui.com/iz6HHjeu23i)，复制进去保存。
 
-[![20201216175343](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201216175343.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201216175343.png)
+[![20201216175343](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201216175343.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201216175343.png)
 
 ### 修改 index.py
 复制下方代码，替换原文件内容，配置相关参数后保存。
@@ -182,7 +182,7 @@ key 和 qq 需要到 [Qmsg官网](https://qmsg.zendee.cn/) 设置获取。网站
 ## 设置定时触发
 云函数触发管理，创建触发器，按照下图设置。corn 表达式填入 `0 0 13 * * * *` 代表每天 13:00 触发函数，也可按照自己的喜好修改，详细配置策略可参考 [Cron相关文档](https://cloud.tencent.com/document/product/583/9708#cron-.E8.A1.A8.E8.BE.BE.E5.BC.8F)。
 
-[![20201216175420](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201216175420.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201216175420.png)
+[![20201216175420](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201216175420.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201216175420.png)
 
 关于抓包刷步云函数可查看 [语雀文档](https://www.yuque.com/docs/share/336d83f9-10b5-43f3-8101-54b084596396?# 《微信、支付宝刷步 蚂蚁森林每天296g能量》)
 

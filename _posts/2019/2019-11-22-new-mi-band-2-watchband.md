@@ -8,20 +8,20 @@ toc: false
 toc_label: "标题"
 toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)	
 gallery:
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184246.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184246.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184246.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184246.png
     alt: "腕带1"
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184334.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184334.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184334.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184334.png
     alt: "腕带2"
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184411.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184411.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184411.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184411.png
     alt: "腕带3"
 ---
 ## 2017年购入的小米手环 2
 2017 年买的小米手环 2 :watch:，这几年来，对我来说，作用真的很大。每天闹钟提醒、来电提醒、微信消息提醒，都离不开它。到现在，这个手环已经服役了整整 2 年，而且电池 :battery: 状态仍然很好，基本充满一次点可以使用近一个月（我只开启了闹钟、计步、来电提醒这几个功能，所以比较省电）。
 
-[![20201211184458](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184458.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211184458.png)
+[![20201211184458](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184458.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211184458.png)
 
 ## 腕带断开
 但是最近，由于时间太长，腕带塑料老化，手环的腕带连接处突然断开了。下面是手环腕带断开的情况。

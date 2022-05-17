@@ -56,21 +56,21 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ### 搜索磁力链接
 在输入框输入想要搜索资源的名称，点击搜索，点击绿色按钮可以切换搜索源。找到想要的资源后点击其右侧下载按钮，就可以将其添加到任务列表中。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528121045.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528121045.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528121045.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528121045.png"></a> </figure>
 
 ### 离线下载
 直接在输入框中输入磁力链接，点击下方 **Load Magnet** 按钮，下载任务就添加上了。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528112400.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528112400.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528112400.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528112400.png"></a> </figure>
 
 BT 下载，点击输入框右侧上传按钮，选择种子文件，上传后会自动开始下载。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528114534.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528114534.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528114534.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528114534.png"></a> </figure>
 
 ## 测试效果
 最近[《天气之子》][2]这部动漫电影很火，刚出了 BD 版本，就去 [bt之家][1] 下载了蓝光 4K 版本种子。测试离线速度很快，大约 20MB/s。当然，离线速度除了取决于服务器性能外，还与种子的热度有关，越热门的资源离线速度越快。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528091833.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200528091833.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528091833.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200528091833.png"></a> </figure>
 
 ## 常见问题
 

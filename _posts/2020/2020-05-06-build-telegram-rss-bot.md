@@ -29,7 +29,7 @@ NodeRSSBot: <https://github.com/fengkx/NodeRSSBot>
 ## 创建 Telegram 机器人
 Telegram 查找 [BotFather](https://telegram.me/BotFather)，发送 `/newbot` 创建一个新的机器人。这里需要为机器人取一个名字，名字可随意设置。之后设置机器人的用户名，用户名必须以 bot 结尾，比如 `RSS_bot` 或者 `RSSbot`。创建完成后会获得该机器人的 Token。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200506143836.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200506143836.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200506143836.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200506143836.png"></a> </figure>
 
 ## 安装 Docker
 Xshell 连接 VPS 后，使用 sudo 或 root 登录
@@ -92,7 +92,7 @@ docker run --name rssbot -d -v <directory to store database file>:/app/data/ -e 
 ```
 其中通过 opml 文件导入订阅这个功能非常实用，直接将 opml 文件发送给机器人就能订阅里面所有的源。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200506183522.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200506183522.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200506183522.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200506183522.png"></a> </figure>
 
 后续如果想在机器人聊天窗口添加可使用的快捷命令，在 [BotFather](https://telegram.me/BotFather) 设置就可以了。
 

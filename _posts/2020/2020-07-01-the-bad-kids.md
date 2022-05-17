@@ -11,35 +11,35 @@ toc_sticky: true
 toc_label: "标题"
 toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 poster:
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194632.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194632.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194653.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194653.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194711.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194711.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194727.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194727.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194829.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194829.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194851.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194851.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194943.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194943.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194959.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194959.png
-  - url: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194926.png
-    image_path: https://cdn.jsdelivr.net/gh/sunete/imghost/img20200701194926.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194632.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194632.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194653.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194653.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194711.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194711.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194727.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194727.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194829.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194829.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194851.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194851.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194943.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194943.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194959.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194959.png
+  - url: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194926.png
+    image_path: https://fastly.jsdelivr.net/gh/sunete/imghost/img20200701194926.png
 ---
 **注意！** 本文内容涉及剧透，请谨慎阅读。
 {: .notice--warning}
 
 用了 2 天的事件，刷完了最近口碑很好的网剧[《隐秘的角落》][1]，这部剧可以说是我最近几年来看过的国产剧中最棒的一部，同时豆瓣评分也达到了 8.9 的高分。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200703151642.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200703151642.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200703151642.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200703151642.png"></a> </figure>
 
 刚开始看前几集的时候，我以为这部剧仅仅是讲述三个小孩与一个谋杀犯斗智斗勇，最终将谋杀犯绳之以法的故事而已。但是，当我看到后面的时候，我发现，这部剧并没有这么简单。在最后一集中，朱朝阳在一切结束后，回到学校后参加开学典礼时，严良穿着白色的背心出现在了礼堂，但是却只有朱朝阳一个人能看到他。为什么会这样？难道严良已经死了吗？老陈不是把严良从海里救出来了吗？我脑袋里出现了一连串的问号。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200703153745.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200703153745.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200703153745.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200703153745.png"></a> </figure>
 
 于是，我就去搜了一下《隐秘的角落》结局分析。在看过知乎 @[淮海以青][2] 的高赞回答后，我终于发现，这部剧的结局竟然如此的黑暗！
 

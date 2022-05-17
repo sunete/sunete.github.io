@@ -16,7 +16,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 ## 我电脑中病毒了？
 用 [火绒][1] 全盘查毒，结果没啥问题，毕竟我不会去下载那些来路不明的文件。而且火绒开机启动，实时保护电脑安全，一般不会中招。
 
-[![20210303170901](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210303170901.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210303170901.png)
+[![20210303170901](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210303170901.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210303170901.png)
 
 ## 开机时间太久了需要重启？
 试试吧。关机，重启，关机，重启··· 试了好几次还是卡，看来不是这个问题。
@@ -26,14 +26,14 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 用 [CrystalDiskInfo][2] 简单看了看，还是没啥大问题的。后面，回头一想，我是真的傻，系统装在固态硬盘上，如果固态出问题根本不用查，电脑直接就不能用了呀！肯定不会是固态的问题。
 
-[![20210303183505](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210303183505.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210303183505.png)
+[![20210303183505](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210303183505.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210303183505.png)
 
 ## 电脑内存不够？
 要说我的电脑，配置挺低的：4 G 内存、i5-5200U 处理器、128 G 固态硬盘 + 500 G 机械硬盘。
 
 不过，这配置，对于我来说够用了。况且之前没这么卡，突然就变卡了，应该不是配置低的问题。
 
-[![20210303190622](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210303190622.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210303190622.png)
+[![20210303190622](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210303190622.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210303190622.png)
 
 ## 上网搜搜
 去谷歌、百度搜索解决办法，无非就是重启、重装系统、杀毒等等··· 重装系统就别了吧，重新安装所有软件真的是噩梦。

@@ -36,7 +36,7 @@ ed2k://|file|cn_windows_7_professional_x64_dvd_x15-65791.iso|3341268992|34748005
 ```
 
 5. 复制链接到迅雷，点击下载。
-[![20201211174951](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211174951.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211174951.png)
+[![20201211174951](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211174951.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211174951.png)
  
 ## 下载启动盘制作工具 Rufus
 [Rufus](https://rufus.ie/) 是一个开源免费的快速制作 U 盘系统启动盘和格式化 USB 的实用小工具，它可以快速把 ISO 格式的系统镜像文件快速制作成可引导的 USB 启动安装盘，支持 Windows 或 Linux 启动。Rufus 小巧玲珑，软件体积仅 1.1MB，然而麻雀虽小，它却五脏俱全，而且速度极快。
@@ -45,7 +45,7 @@ ed2k://|file|cn_windows_7_professional_x64_dvd_x15-65791.iso|3341268992|34748005
 
 进入官网，选择下载 `Rufus 3.8 Portable (1.1 MB)`。便携版即可，也可以选择安装版。
 
-[![20201211175040](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211175040.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211175040.png)
+[![20201211175040](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211175040.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211175040.png)
 
 ## 制作 U 盘启动盘
 将U盘插入电脑，打开 Rufus。    
@@ -55,7 +55,7 @@ ed2k://|file|cn_windows_7_professional_x64_dvd_x15-65791.iso|3341268992|34748005
 4. 目标系统类型选择 UEFI
 5. 点击开始即可刻录 
      
-[![20201211175247](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211175247.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211175247.png)
+[![20201211175247](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211175247.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211175247.png)
 
 由于目前大部分电脑都支持 UEFI+GPT 的设置，只要是新装的主流配置电脑，在默认的环境下都支持 UEFI+GPT 的配置，所以在分区类型和目标系统类型里面，选择 UEFI 和 GPT 即可。开始刻录后，等下方绿条走完并显示完成后即可安全弹出 U 盘，把 U 盘插到需要安装系统的电脑里，开始装系统吧！
 
@@ -94,7 +94,7 @@ ed2k://|file|cn_windows_7_professional_x64_dvd_x15-65791.iso|3341268992|34748005
 
 如果成功进入 BIOS 界面，一般会如下图
 
-[![20201211180552](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211180552.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211180552.png)
+[![20201211180552](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211180552.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211180552.png)
 
 此时，你需要知道你的 U 盘的名字，一般如果是大牌的 U 盘都会有自己的品牌名字，而如果是偏杂牌的 U 盘则可能带“UDISK”字样。这里刻录的 U 盘是东芝的 U 盘，所以带有系统的 U 盘为第四个与第七个。
 
@@ -103,18 +103,18 @@ ed2k://|file|cn_windows_7_professional_x64_dvd_x15-65791.iso|3341268992|34748005
 ### 系统安装
 选择后，就会进入对应品牌的 UEFI 界面，稍等片刻，便进入了装系统界面。当然由于不同系统有不同的安装界面，以下界面仅供参考。
 
-[![20201211180818](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211180818.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211180818.png)
+[![20201211180818](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211180818.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211180818.png)
 
 点击开始安装，接下来就是傻瓜式安装了。
 
 ### 自定义，仅安装 Windows
 
-[![20201211181004](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181004.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181004.png)
+[![20201211181004](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211181004.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211181004.png)
 
 ### 选择系统盘，配置容量
 重装系统可以把除了存有你重要数据以外的所有盘符删掉，点击新建，设置容量，然后它会提示你新建一些用于系统功能的分区，点击确认，然后选择下一步即可。
 
-[![20201211181035](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181035.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20201211181035.png)
+[![20201211181035](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211181035.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20201211181035.png)
 
 之后便是漫长的等待啦。等电脑重启后，系统会继续安装，根据步骤执行操作即可。
 

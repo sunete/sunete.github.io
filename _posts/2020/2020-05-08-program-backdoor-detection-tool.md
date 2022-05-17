@@ -17,21 +17,21 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 官方网站：<https://www.shellpub.com/>
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510092228.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510092228.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510092228.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510092228.png"></a> </figure>
 
 在线查杀方便在不需要下载软件即可使用。把源码 zip 压缩包上传即可查杀。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510092642.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510092642.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510092642.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510092642.png"></a> </figure>
 
 ## 百度 WebShell 检测
 百度出品的在线查杀网站，不收费、不限制上传数量，算百度良心了一把
 
 官方网站：<https://scanner.baidu.com/>
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510093516.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510093516.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510093516.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510093516.png"></a> </figure>
 
 直接将源码上传，就可以在线查杀。支持的文件类型比河马查杀要多不少。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510093952.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200510093952.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510093952.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200510093952.png"></a> </figure>
 
 [^1]: 肉鸡也称傀儡机，是指可以被黑客远程控制的机器。肉鸡通常被用作 DDOS 攻击。

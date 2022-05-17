@@ -15,7 +15,7 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 如果你用过本博客的搜索功能，而且足够仔细，可能会发现，我的网站所用的搜索功能是由 [Algolia][1] 驱动。
 
-[![20210227154458](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210227154458.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210227154458.png)
+[![20210227154458](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210227154458.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210227154458.png)
 
 Algolia 的配置，在搭建博客之初就已经配置好了。当时是利用 [Travis-CI][3] 自动化提交索引，只要我进行任何文件改动，Travis-CI 都会自动提交、部署，配合 Algolia 实现站内搜索。
 
@@ -67,7 +67,7 @@ bundle exec jekyll algolia
 ## 四、设置 GitHub Secret
 到 GitHub Pages 博客项目下，在 Settings > Secrets 新增一个 Secret，名称为 `ALGOLIA_API_KEY` ，值为在  Algolia [控制面板][7] 获取的 Admin API Key 。
 
-[![20210227183630](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210227183630.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210227183630.png)
+[![20210227183630](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210227183630.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210227183630.png)
 
 ## 五、新建 Workflow 文件
 在博客项目 `/.github/workflows/` 文件夹下新建一个工作流程 yml 文件，例如 `algolia-search.yml`，并在文件中添加如下代码
@@ -76,7 +76,7 @@ bundle exec jekyll algolia
 
 添加完成后，在博客的 main 或者 master 分支有任何的提交，都会运行 GitHub Action 进行自动构建。
 
-[![20210227185532](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210227185532.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210227185532.png)
+[![20210227185532](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210227185532.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210227185532.png)
 
 参考项目：<https://github.com/marketplace/actions/algolia-jekyll-action>
 

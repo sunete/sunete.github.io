@@ -18,16 +18,16 @@ toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)
 
 网站地址：<http://cn.linux.vbird.org/>
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511185638.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511185638.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200511185638.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200511185638.png"></a> </figure>
 
 需要提到的是，《鸟哥的 Linux 私房菜》书籍版已经发行第四版了，但是鸟哥网站最新的教程也才 2016 年，距今时间比较久远，可能有些地方不如书籍版完善。
 
 ## Linux工具快速教程
 [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html) 是一个网页版的书籍，好像是基于 Gitbook 创作的。其内容相较于鸟哥来说不够详尽，主要讲述的是 Linux 下的命令行工具。辅助 Linux 学习也不错。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511201628.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511201628.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200511201628.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200511201628.png"></a> </figure>
 
 ## explain shell
 [explain shell](https://www.explainshell.com/) 是一个用来查询 shell 命令相关帮助文本的网站。如果已经学习了一些 Linux 相关知识，但是 shell 命令的帮助文本记不住，就可以借助这个网站来查询。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511204339.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200511204339.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200511204339.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200511204339.png"></a> </figure>

@@ -18,14 +18,14 @@ toc_icon: "heart"  # Font Awesome对应图标名称 (无fa前缀)
 GitHub：<https://github.com/chevereto>
 
 <figure>
-  <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200503204716.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200503204716.png"></a>
+  <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200503204716.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200503204716.png"></a>
 </figure>
 
 图床的部署非常的简单，下载图床安装程序 `installer.php`，上传到网站根目录，访问 `http://域名/installer.php` 进行配置即可使用。
 
 图床软件分为免费版和付费版。付费个人版 24$，商业版 48$，支持 10 天无理由退货。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200505201932.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200505201932.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200505201932.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200505201932.png"></a> </figure>
 
 整体来说是一个很棒的图床软件，如果有需要，值得付费。
 

@@ -25,7 +25,7 @@ WPS 对于很多人来说是一款必不可少的办公软件，除了完善的 
 
 签到完成后，按 F12 进入检查模式，选择 Network 并勾选下面 Preserve log 选项，之后刷新网页。网页刷新完成后，在检查窗口依次点击各项，在详细页面查找账号 cookie，复制保存 `wps_sid=` 后面的内容，这就是我们要的 sid。
 
-<figure> <a href="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200520160509.png"><img src="https://cdn.jsdelivr.net/gh/sunete/imghost/img20200520160509.png"></a> </figure>
+<figure> <a href="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200520160509.png"><img src="https://fastly.jsdelivr.net/gh/sunete/imghost/img20200520160509.png"></a> </figure>
 
 ### 获取邀请 id
 点击签到页面左侧分享按钮，复制分享链接，链接中最后面一串数字就是你的邀请 id，类似于 `490164639`。
@@ -37,11 +37,11 @@ sckey 是用于微信接收 [Server 酱][1] 发送到签到成功通知的，每
 - 登录 [腾讯云函数控制台](https://console.cloud.tencent.com/scf)（第一次使用可能需要激活，按步骤激活就可以）。
 - 选择 **函数服务** → **新建** → **自定义创建**，依次设置函数名称、运行环境和执行超时时间。运行环境选择 **Python3.6**，执行超时时间设置为 **150**，点击下一步。
 
-[![20210223102036](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210223102036.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210223102036.png)
+[![20210223102036](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210223102036.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210223102036.png)
 
 执行超时时间在 **新建函数** 页面下方 **高级配置** 里，必须设置为 **150**
 
-[![20210223102538](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210223102538.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210223102538.png)
+[![20210223102538](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210223102538.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210223102538.png)
 
 ## 云函数代码
 点击函数代码，选择 `index.py`，把下方代码 `# 初始化信息` 部分修改后填入框内。部署并测试。
@@ -149,7 +149,7 @@ if __name__ == '__main__':
 ## 设置函数运行事件
 进入触发管理页面，创建触发器。触发方式选择定时触发，触发周期选择自定义触发周期，Cron 表达式填 `0 0 8 * * * *` 意思是每天上午 8 点签到。
 
-[![20210223104333](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210223104333.png)](https://cdn.jsdelivr.net/gh/sunete/imghost/img20210223104333.png)
+[![20210223104333](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210223104333.png)](https://fastly.jsdelivr.net/gh/sunete/imghost/img20210223104333.png)
 
 至此，腾讯云函数自动打卡就已经设置完成了。接下来就是等着程序第二天自动帮你打卡了:smile:
 
