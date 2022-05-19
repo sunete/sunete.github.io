@@ -12,7 +12,7 @@ toc_label: ""
 toc_icon: ""  # Font Awesome对应图标名称 (无fa前缀)	
 ---
 
-Ubuntu 20.4 服务器安装青龙，并对接傻妞机器人。
+Ubuntu 20.04 服务器安装青龙，并对接傻妞机器人。
 
 ## 安装青龙
 
